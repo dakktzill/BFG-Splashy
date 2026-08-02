@@ -1,0 +1,278 @@
+[
+  {
+    "source_island": 1,
+    "source_monster": 2,
+    "dest_island": 8,
+    "dest_monster": 60
+  },
+  {
+    "source_island": 1,
+    "source_monster": 5,
+    "dest_island": 8,
+    "dest_monster": 61
+  },
+  {
+    "source_island": 1,
+    "source_monster": 11,
+    "dest_island": 8,
+    "dest_monster": 63
+  },
+  {
+    "source_island": 1,
+    "source_monster": 12,
+    "dest_island": 8,
+    "dest_monster": 64
+  },
+  {
+    "source_island": 1,
+    "source_monster": 50,
+    "dest_island": 7,
+    "dest_monster": 50
+  },
+  {
+    "source_island": 1,
+    "source_monster": 53,
+    "dest_island": 8,
+    "dest_monster": 67
+  },
+  {
+    "source_island": 2,
+    "source_monster": 2,
+    "dest_island": 8,
+    "dest_monster": 60
+  },
+  {
+    "source_island": 2,
+    "source_monster": 5,
+    "dest_island": 8,
+    "dest_monster": 61
+  },
+  {
+    "source_island": 2,
+    "source_monster": 8,
+    "dest_island": 8,
+    "dest_monster": 62
+  },
+  {
+    "source_island": 2,
+    "source_monster": 11,
+    "dest_island": 8,
+    "dest_monster": 63
+  },
+  {
+    "source_island": 2,
+    "source_monster": 12,
+    "dest_island": 8,
+    "dest_monster": 64
+  },
+  {
+    "source_island": 2,
+    "source_monster": 27,
+    "dest_island": 8,
+    "dest_monster": 66
+  },
+  {
+    "source_island": 2,
+    "source_monster": 54,
+    "dest_island": 7,
+    "dest_monster": 54
+  },
+  {
+    "source_island": 3,
+    "source_monster": 5,
+    "dest_island": 8,
+    "dest_monster": 61
+  },
+  {
+    "source_island": 3,
+    "source_monster": 8,
+    "dest_island": 8,
+    "dest_monster": 62
+  },
+  {
+    "source_island": 3,
+    "source_monster": 19,
+    "dest_island": 8,
+    "dest_monster": 65
+  },
+  {
+    "source_island": 3,
+    "source_monster": 51,
+    "dest_island": 7,
+    "dest_monster": 51
+  },
+  {
+    "source_island": 4,
+    "source_monster": 2,
+    "dest_island": 8,
+    "dest_monster": 60
+  },
+  {
+    "source_island": 4,
+    "source_monster": 8,
+    "dest_island": 8,
+    "dest_monster": 62
+  },
+  {
+    "source_island": 4,
+    "source_monster": 11,
+    "dest_island": 8,
+    "dest_monster": 63
+  },
+  {
+    "source_island": 4,
+    "source_monster": 58,
+    "dest_island": 7,
+    "dest_monster": 58
+  },
+  {
+    "source_island": 5,
+    "source_monster": 2,
+    "dest_island": 8,
+    "dest_monster": 60
+  },
+  {
+    "source_island": 5,
+    "source_monster": 5,
+    "dest_island": 8,
+    "dest_monster": 61
+  },
+  {
+    "source_island": 5,
+    "source_monster": 12,
+    "dest_island": 8,
+    "dest_monster": 64
+  },
+  {
+    "source_island": 5,
+    "source_monster": 19,
+    "dest_island": 8,
+    "dest_monster": 65
+  },
+  {
+    "source_island": 5,
+    "source_monster": 76,
+    "dest_island": 7,
+    "dest_monster": 76
+  },
+  {
+    "source_island": 1,
+    "source_monster": 32,
+    "dest_island": 8,
+    "dest_monster": 32
+  },
+  {
+    "source_island": 1,
+    "source_monster": 33,
+    "dest_island": 8,
+    "dest_monster": 33
+  },
+  {
+    "source_island": 1,
+    "source_monster": 34,
+    "dest_island": 8,
+    "dest_monster": 34
+  },
+  {
+    "source_island": 1,
+    "source_monster": 49,
+    "dest_island": 8,
+    "dest_monster": 49
+  },
+  {
+    "source_island": 2,
+    "source_monster": 32,
+    "dest_island": 8,
+    "dest_monster": 32
+  },
+  {
+    "source_island": 2,
+    "source_monster": 33,
+    "dest_island": 8,
+    "dest_monster": 33
+  },
+  {
+    "source_island": 2,
+    "source_monster": 34,
+    "dest_island": 8,
+    "dest_monster": 34
+  },
+  {
+    "source_island": 2,
+    "source_monster": 49,
+    "dest_island": 8,
+    "dest_monster": 49
+  },
+  {
+    "source_island": 3,
+    "source_monster": 32,
+    "dest_island": 8,
+    "dest_monster": 32
+  },
+  {
+    "source_island": 3,
+    "source_monster": 33,
+    "dest_island": 8,
+    "dest_monster": 33
+  },
+  {
+    "source_island": 3,
+    "source_monster": 34,
+    "dest_island": 8,
+    "dest_monster": 34
+  },
+  {
+    "source_island": 3,
+    "source_monster": 49,
+    "dest_island": 8,
+    "dest_monster": 49
+  },
+  {
+    "source_island": 4,
+    "source_monster": 32,
+    "dest_island": 8,
+    "dest_monster": 32
+  },
+  {
+    "source_island": 4,
+    "source_monster": 33,
+    "dest_island": 8,
+    "dest_monster": 33
+  },
+  {
+    "source_island": 4,
+    "source_monster": 34,
+    "dest_island": 8,
+    "dest_monster": 34
+  },
+  {
+    "source_island": 4,
+    "source_monster": 49,
+    "dest_island": 8,
+    "dest_monster": 49
+  },
+  {
+    "source_island": 5,
+    "source_monster": 32,
+    "dest_island": 8,
+    "dest_monster": 32
+  },
+  {
+    "source_island": 5,
+    "source_monster": 33,
+    "dest_island": 8,
+    "dest_monster": 33
+  },
+  {
+    "source_island": 5,
+    "source_monster": 34,
+    "dest_island": 8,
+    "dest_monster": 34
+  },
+  {
+    "source_island": 5,
+    "source_monster": 49,
+    "dest_island": 8,
+    "dest_monster": 49
+  }
+]

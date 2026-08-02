@@ -1,0 +1,260 @@
+[
+  {
+    "island_structure_id": 1,
+    "island": 1,
+    "structure": 8,
+    "instrument": "001_CASTLE_02.bin"
+  },
+  {
+    "island_structure_id": 2,
+    "island": 1,
+    "structure": 9,
+    "instrument": "001_CASTLE_02.bin"
+  },
+  {
+    "island_structure_id": 3,
+    "island": 1,
+    "structure": 10,
+    "instrument": "001_CASTLE_02.bin"
+  },
+  {
+    "island_structure_id": 4,
+    "island": 1,
+    "structure": 11,
+    "instrument": "001_CASTLE_02.bin"
+  },
+  {
+    "island_structure_id": 5,
+    "island": 2,
+    "structure": 13,
+    "instrument": "002_CASTLE_02.bin"
+  },
+  {
+    "island_structure_id": 6,
+    "island": 2,
+    "structure": 14,
+    "instrument": "002_CASTLE_02.bin"
+  },
+  {
+    "island_structure_id": 7,
+    "island": 2,
+    "structure": 15,
+    "instrument": "002_CASTLE_02.bin"
+  },
+  {
+    "island_structure_id": 8,
+    "island": 2,
+    "structure": 16,
+    "instrument": "002_CASTLE_02.bin"
+  },
+  {
+    "island_structure_id": 9,
+    "island": 1,
+    "structure": 124,
+    "instrument": "Time_Machine.bin"
+  },
+  {
+    "island_structure_id": 10,
+    "island": 2,
+    "structure": 124,
+    "instrument": "Time_Machine.bin"
+  },
+  {
+    "island_structure_id": 11,
+    "island": 3,
+    "structure": 124,
+    "instrument": "Time_Machine.bin"
+  },
+  {
+    "island_structure_id": 12,
+    "island": 3,
+    "structure": 18,
+    "instrument": "003_CASTLE_02.bin"
+  },
+  {
+    "island_structure_id": 13,
+    "island": 3,
+    "structure": 19,
+    "instrument": "003_CASTLE_02.bin"
+  },
+  {
+    "island_structure_id": 14,
+    "island": 3,
+    "structure": 20,
+    "instrument": "003_CASTLE_02.bin"
+  },
+  {
+    "island_structure_id": 15,
+    "island": 3,
+    "structure": 21,
+    "instrument": "003_CASTLE_02.bin"
+  },
+  {
+    "island_structure_id": 16,
+    "island": 4,
+    "structure": 23,
+    "instrument": "004_CASTLE_02.bin"
+  },
+  {
+    "island_structure_id": 17,
+    "island": 4,
+    "structure": 24,
+    "instrument": "004_CASTLE_02.bin"
+  },
+  {
+    "island_structure_id": 18,
+    "island": 4,
+    "structure": 25,
+    "instrument": "004_CASTLE_02.bin"
+  },
+  {
+    "island_structure_id": 19,
+    "island": 4,
+    "structure": 26,
+    "instrument": "004_CASTLE_02.bin"
+  },
+  {
+    "island_structure_id": 20,
+    "island": 4,
+    "structure": 124,
+    "instrument": "Time_Machine.bin"
+  },
+  {
+    "island_structure_id": 22,
+    "island": 5,
+    "structure": 28,
+    "instrument": "005_CASTLE_02.bin"
+  },
+  {
+    "island_structure_id": 23,
+    "island": 5,
+    "structure": 29,
+    "instrument": "005_CASTLE_02.bin"
+  },
+  {
+    "island_structure_id": 24,
+    "island": 5,
+    "structure": 30,
+    "instrument": "005_CASTLE_02.bin"
+  },
+  {
+    "island_structure_id": 25,
+    "island": 5,
+    "structure": 31,
+    "instrument": "005_CASTLE_02.bin"
+  },
+  {
+    "island_structure_id": 26,
+    "island": 5,
+    "structure": 124,
+    "instrument": "Time_Machine.bin"
+  },
+  {
+    "island_structure_id": 28,
+    "island": 1,
+    "structure": 138,
+    "instrument": "001_CASTLE_02.bin"
+  },
+  {
+    "island_structure_id": 29,
+    "island": 2,
+    "structure": 139,
+    "instrument": "002_CASTLE_02.bin"
+  },
+  {
+    "island_structure_id": 30,
+    "island": 3,
+    "structure": 140,
+    "instrument": "003_CASTLE_02.bin"
+  },
+  {
+    "island_structure_id": 31,
+    "island": 4,
+    "structure": 141,
+    "instrument": "004_CASTLE_02.bin"
+  },
+  {
+    "island_structure_id": 32,
+    "island": 5,
+    "structure": 142,
+    "instrument": "005_CASTLE_02.bin"
+  },
+  {
+    "island_structure_id": 33,
+    "island": 7,
+    "structure": 201,
+    "instrument": "007_CASTLE_02.bin"
+  },
+  {
+    "island_structure_id": 34,
+    "island": 7,
+    "structure": 202,
+    "instrument": "007_CASTLE_02.bin"
+  },
+  {
+    "island_structure_id": 35,
+    "island": 7,
+    "structure": 203,
+    "instrument": "007_CASTLE_02.bin"
+  },
+  {
+    "island_structure_id": 36,
+    "island": 7,
+    "structure": 204,
+    "instrument": "007_CASTLE_02.bin"
+  },
+  {
+    "island_structure_id": 37,
+    "island": 7,
+    "structure": 205,
+    "instrument": "007_CASTLE_02.bin"
+  },
+  {
+    "island_structure_id": 38,
+    "island": 7,
+    "structure": 124,
+    "instrument": "Time_Machine.bin"
+  },
+  {
+    "island_structure_id": 39,
+    "island": 8,
+    "structure": 124,
+    "instrument": "Time_Machine.bin"
+  },
+  {
+    "island_structure_id": 40,
+    "island": 1,
+    "structure": 237,
+    "instrument": "001_CASTLE_02.bin"
+  },
+  {
+    "island_structure_id": 41,
+    "island": 2,
+    "structure": 238,
+    "instrument": "002_CASTLE_02.bin"
+  },
+  {
+    "island_structure_id": 42,
+    "island": 3,
+    "structure": 239,
+    "instrument": "003_CASTLE_02.bin"
+  },
+  {
+    "island_structure_id": 43,
+    "island": 4,
+    "structure": 240,
+    "instrument": "004_CASTLE_02.bin"
+  },
+  {
+    "island_structure_id": 44,
+    "island": 5,
+    "structure": 241,
+    "instrument": "005_CASTLE_02.bin"
+  },
+  {
+    "island_structure_id": 45,
+    "island": 7,
+    "structure": 242,
+    "instrument": "007_CASTLE_02.bin"
+  }
+]

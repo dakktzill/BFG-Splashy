@@ -1,0 +1,16 @@
+{
+  "key": "DYQ8J6TVaMplMlbN",
+  "iv": "I56YFl_SD8_d2ZWZ",
+  "max_players": 200,
+  "server_ip": "127.0.0.1",
+  "game_addr": "0.0.0.0:9933",
+  "auth_addr": "127.0.0.1:900",
+  "db_path": "./db",
+  "save_path": "./players.db",
+  "dlc_path": "./dlc",
+  "users_path": "./auth_users.json",
+  "log_path": "./server.log",
+  "constants_path": "./constants.json",
+  "refresh_log": true,
+  "debug": false
+}

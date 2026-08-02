@@ -1,0 +1,20 @@
+[
+  {
+    "storegroup_id": 1,
+    "group_name": "coins",
+    "currency": 1,
+    "group_title": "STORE_GOLD"
+  },
+  {
+    "storegroup_id": 2,
+    "group_name": "diamond",
+    "currency": 1,
+    "group_title": "STORE_DIAMOND"
+  },
+  {
+    "storegroup_id": 3,
+    "group_name": "food",
+    "currency": 1,
+    "group_title": "STORE_FOOD"
+  }
+]

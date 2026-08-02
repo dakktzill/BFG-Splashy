@@ -1,0 +1,12 @@
+dlc/
+bin/
+auth_users.json
+players.db
+server.log
+*_BACKUP.*
+config.json
+setup.exe
+server.exe
+*.zip
+builds/
+src/*.json

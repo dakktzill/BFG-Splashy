@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "BUY_MONSTER_C",
+    "description": "quests r buggy but i wanted to test em",
+    "type": "AND",
+    "goals": "[ { \"coins\" : 0, \"eval\" : \">=\"} ]",
+    "next": "[\"HACK_SEVEN\"]",
+    "rewards": "[ { \"coins\" : 75, \"diamonds\" : 1 } ]",
+    "sheet": "hud01",
+    "image": "goal_icon_food",
+    "initial": 1,
+    "visible": 1,
+    "comment": ""
+  }
+]

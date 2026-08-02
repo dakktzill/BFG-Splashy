@@ -1,0 +1,1482 @@
+[
+  {
+    "monster": 1,
+    "levels": [
+      { "level": 1, "food": 5, "coins": 2, "max_coins": 40, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 10, "coins": 3, "max_coins": 64, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 20, "coins": 5, "max_coins": 96, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 40, "coins": 6, "max_coins": 128, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 80, "coins": 8, "max_coins": 160, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 160, "coins": 10, "max_coins": 192, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 320, "coins": 11, "max_coins": 224, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 640, "coins": 13, "max_coins": 256, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 1280, "coins": 14, "max_coins": 288, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 2560, "coins": 16, "max_coins": 320, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 5120, "coins": 18, "max_coins": 352, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 10240, "coins": 19, "max_coins": 384, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 20480, "coins": 21, "max_coins": 416, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 40960, "coins": 22, "max_coins": 448, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 81920, "coins": 24, "max_coins": 480, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 2,
+    "levels": [
+      { "level": 1, "food": 5, "coins": 3, "max_coins": 18, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 10, "coins": 5, "max_coins": 29, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 20, "coins": 7, "max_coins": 43, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 40, "coins": 10, "max_coins": 58, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 80, "coins": 12, "max_coins": 72, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 160, "coins": 14, "max_coins": 86, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 320, "coins": 17, "max_coins": 101, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 640, "coins": 19, "max_coins": 115, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 1280, "coins": 22, "max_coins": 130, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 2560, "coins": 24, "max_coins": 144, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 5120, "coins": 26, "max_coins": 158, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 10240, "coins": 29, "max_coins": 173, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 20480, "coins": 31, "max_coins": 187, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 40960, "coins": 34, "max_coins": 202, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 81920, "coins": 36, "max_coins": 216, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 3,
+    "levels": [
+      { "level": 1, "food": 5, "coins": 4, "max_coins": 18, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 10, "coins": 6, "max_coins": 29, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 20, "coins": 10, "max_coins": 43, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 40, "coins": 13, "max_coins": 58, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 80, "coins": 16, "max_coins": 72, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 160, "coins": 19, "max_coins": 86, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 320, "coins": 22, "max_coins": 101, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 640, "coins": 26, "max_coins": 115, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 1280, "coins": 29, "max_coins": 130, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 2560, "coins": 32, "max_coins": 144, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 5120, "coins": 35, "max_coins": 158, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 10240, "coins": 38, "max_coins": 173, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 20480, "coins": 42, "max_coins": 187, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 40960, "coins": 45, "max_coins": 202, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 81920, "coins": 48, "max_coins": 216, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 4,
+    "levels": [
+      { "level": 1, "food": 5, "coins": 2, "max_coins": 30, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 10, "coins": 3, "max_coins": 48, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 20, "coins": 5, "max_coins": 72, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 40, "coins": 6, "max_coins": 96, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 80, "coins": 8, "max_coins": 120, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 160, "coins": 10, "max_coins": 144, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 320, "coins": 11, "max_coins": 168, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 640, "coins": 13, "max_coins": 192, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 1280, "coins": 14, "max_coins": 216, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 2560, "coins": 16, "max_coins": 240, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 5120, "coins": 18, "max_coins": 264, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 10240, "coins": 19, "max_coins": 288, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 20480, "coins": 21, "max_coins": 312, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 40960, "coins": 22, "max_coins": 336, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 81920, "coins": 24, "max_coins": 360, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 5,
+    "levels": [
+      { "level": 1, "food": 5, "coins": 3, "max_coins": 30, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 10, "coins": 5, "max_coins": 48, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 20, "coins": 7, "max_coins": 72, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 40, "coins": 10, "max_coins": 96, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 80, "coins": 12, "max_coins": 120, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 160, "coins": 14, "max_coins": 144, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 320, "coins": 17, "max_coins": 168, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 640, "coins": 19, "max_coins": 192, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 1280, "coins": 22, "max_coins": 216, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 2560, "coins": 24, "max_coins": 240, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 5120, "coins": 26, "max_coins": 264, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 10240, "coins": 29, "max_coins": 288, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 20480, "coins": 31, "max_coins": 312, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 40960, "coins": 34, "max_coins": 336, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 81920, "coins": 36, "max_coins": 360, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 6,
+    "levels": [
+      { "level": 1, "food": 5, "coins": 4, "max_coins": 300, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 10, "coins": 6, "max_coins": 480, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 20, "coins": 10, "max_coins": 720, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 40, "coins": 13, "max_coins": 960, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 80, "coins": 16, "max_coins": 1200, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 160, "coins": 19, "max_coins": 1440, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 320, "coins": 22, "max_coins": 1680, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 640, "coins": 26, "max_coins": 1920, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 1280, "coins": 29, "max_coins": 2160, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 2560, "coins": 32, "max_coins": 2400, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 5120, "coins": 35, "max_coins": 2640, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 10240, "coins": 38, "max_coins": 2880, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 20480, "coins": 42, "max_coins": 3120, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 40960, "coins": 45, "max_coins": 3360, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 81920, "coins": 48, "max_coins": 3600, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 7,
+    "levels": [
+      { "level": 1, "food": 5, "coins": 5, "max_coins": 300, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 10, "coins": 8, "max_coins": 480, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 20, "coins": 12, "max_coins": 720, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 40, "coins": 16, "max_coins": 960, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 80, "coins": 20, "max_coins": 1200, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 160, "coins": 24, "max_coins": 1440, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 320, "coins": 28, "max_coins": 1680, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 640, "coins": 32, "max_coins": 1920, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 1280, "coins": 36, "max_coins": 2160, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 2560, "coins": 40, "max_coins": 2400, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 5120, "coins": 44, "max_coins": 2640, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 10240, "coins": 48, "max_coins": 2880, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 20480, "coins": 52, "max_coins": 3120, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 40960, "coins": 56, "max_coins": 3360, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 81920, "coins": 60, "max_coins": 3600, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 8,
+    "levels": [
+      { "level": 1, "food": 5, "coins": 3, "max_coins": 225, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 10, "coins": 5, "max_coins": 360, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 20, "coins": 7, "max_coins": 540, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 40, "coins": 10, "max_coins": 720, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 80, "coins": 12, "max_coins": 900, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 160, "coins": 14, "max_coins": 1080, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 320, "coins": 17, "max_coins": 1260, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 640, "coins": 19, "max_coins": 1440, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 1280, "coins": 22, "max_coins": 1620, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 2560, "coins": 24, "max_coins": 1800, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 5120, "coins": 26, "max_coins": 1980, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 10240, "coins": 29, "max_coins": 2160, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 20480, "coins": 31, "max_coins": 2340, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 40960, "coins": 34, "max_coins": 2520, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 81920, "coins": 36, "max_coins": 2700, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 9,
+    "levels": [
+      { "level": 1, "food": 5, "coins": 4, "max_coins": 240, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 10, "coins": 6, "max_coins": 384, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 20, "coins": 10, "max_coins": 576, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 40, "coins": 13, "max_coins": 768, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 80, "coins": 16, "max_coins": 960, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 160, "coins": 19, "max_coins": 1152, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 320, "coins": 22, "max_coins": 1344, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 640, "coins": 26, "max_coins": 1536, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 1280, "coins": 29, "max_coins": 1728, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 2560, "coins": 32, "max_coins": 1920, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 5120, "coins": 35, "max_coins": 2112, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 10240, "coins": 38, "max_coins": 2304, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 20480, "coins": 42, "max_coins": 2496, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 40960, "coins": 45, "max_coins": 2688, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 81920, "coins": 48, "max_coins": 2880, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 10,
+    "levels": [
+      { "level": 1, "food": 5, "coins": 6, "max_coins": 120, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 10, "coins": 10, "max_coins": 192, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 20, "coins": 14, "max_coins": 288, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 40, "coins": 19, "max_coins": 384, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 80, "coins": 24, "max_coins": 480, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 160, "coins": 29, "max_coins": 576, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 320, "coins": 34, "max_coins": 672, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 640, "coins": 38, "max_coins": 768, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 1280, "coins": 43, "max_coins": 864, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 2560, "coins": 48, "max_coins": 960, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 5120, "coins": 53, "max_coins": 1056, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 10240, "coins": 58, "max_coins": 1152, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 20480, "coins": 62, "max_coins": 1248, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 40960, "coins": 67, "max_coins": 1344, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 81920, "coins": 72, "max_coins": 1440, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 11,
+    "levels": [
+      { "level": 1, "food": 5, "coins": 5, "max_coins": 300, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 10, "coins": 8, "max_coins": 480, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 20, "coins": 12, "max_coins": 720, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 40, "coins": 16, "max_coins": 960, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 80, "coins": 20, "max_coins": 1200, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 160, "coins": 24, "max_coins": 1440, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 320, "coins": 28, "max_coins": 1680, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 640, "coins": 32, "max_coins": 1920, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 1280, "coins": 36, "max_coins": 2160, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 2560, "coins": 40, "max_coins": 2400, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 5120, "coins": 44, "max_coins": 2640, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 10240, "coins": 48, "max_coins": 2880, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 20480, "coins": 52, "max_coins": 3120, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 40960, "coins": 56, "max_coins": 3360, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 81920, "coins": 60, "max_coins": 3600, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 12,
+    "levels": [
+      { "level": 1, "food": 5, "coins": 5, "max_coins": 225, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 10, "coins": 8, "max_coins": 360, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 20, "coins": 12, "max_coins": 540, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 40, "coins": 16, "max_coins": 720, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 80, "coins": 20, "max_coins": 900, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 160, "coins": 24, "max_coins": 1080, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 320, "coins": 28, "max_coins": 1260, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 640, "coins": 32, "max_coins": 1440, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 1280, "coins": 36, "max_coins": 1620, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 2560, "coins": 40, "max_coins": 1800, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 5120, "coins": 44, "max_coins": 1980, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 10240, "coins": 48, "max_coins": 2160, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 20480, "coins": 52, "max_coins": 2340, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 40960, "coins": 56, "max_coins": 2520, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 81920, "coins": 60, "max_coins": 2700, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 13,
+    "levels": [
+      { "level": 1, "food": 5, "coins": 5, "max_coins": 225, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 10, "coins": 8, "max_coins": 360, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 20, "coins": 12, "max_coins": 540, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 40, "coins": 16, "max_coins": 720, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 80, "coins": 20, "max_coins": 900, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 160, "coins": 24, "max_coins": 1080, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 320, "coins": 28, "max_coins": 1260, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 640, "coins": 32, "max_coins": 1440, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 1280, "coins": 36, "max_coins": 1620, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 2560, "coins": 40, "max_coins": 1800, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 5120, "coins": 44, "max_coins": 1980, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 10240, "coins": 48, "max_coins": 2160, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 20480, "coins": 52, "max_coins": 2340, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 40960, "coins": 56, "max_coins": 2520, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 81920, "coins": 60, "max_coins": 2700, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 14,
+    "levels": [
+      { "level": 1, "food": 5, "coins": 6, "max_coins": 180, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 10, "coins": 10, "max_coins": 288, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 20, "coins": 14, "max_coins": 432, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 40, "coins": 19, "max_coins": 576, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 80, "coins": 24, "max_coins": 720, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 160, "coins": 29, "max_coins": 864, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 320, "coins": 34, "max_coins": 1008, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 640, "coins": 38, "max_coins": 1152, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 1280, "coins": 43, "max_coins": 1296, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 2560, "coins": 48, "max_coins": 1440, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 5120, "coins": 53, "max_coins": 1584, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 10240, "coins": 58, "max_coins": 1728, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 20480, "coins": 62, "max_coins": 1872, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 40960, "coins": 67, "max_coins": 2016, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 81920, "coins": 72, "max_coins": 2160, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 15,
+    "levels": [
+      { "level": 1, "food": 5, "coins": 4, "max_coins": 300, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 10, "coins": 6, "max_coins": 480, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 20, "coins": 10, "max_coins": 720, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 40, "coins": 13, "max_coins": 960, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 80, "coins": 16, "max_coins": 1200, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 160, "coins": 19, "max_coins": 1440, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 320, "coins": 22, "max_coins": 1680, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 640, "coins": 26, "max_coins": 1920, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 1280, "coins": 29, "max_coins": 2160, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 2560, "coins": 32, "max_coins": 2400, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 5120, "coins": 35, "max_coins": 2640, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 10240, "coins": 38, "max_coins": 2880, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 20480, "coins": 42, "max_coins": 3120, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 40960, "coins": 45, "max_coins": 3360, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 81920, "coins": 48, "max_coins": 3600, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 16,
+    "levels": [
+      { "level": 1, "food": 10, "coins": 8, "max_coins": 2160, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 20, "coins": 13, "max_coins": 3456, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 40, "coins": 19, "max_coins": 5184, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 80, "coins": 26, "max_coins": 6912, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 160, "coins": 32, "max_coins": 8640, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 320, "coins": 38, "max_coins": 10368, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 640, "coins": 45, "max_coins": 12096, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 1280, "coins": 51, "max_coins": 13824, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 2560, "coins": 58, "max_coins": 15552, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 5120, "coins": 64, "max_coins": 17280, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 10240, "coins": 70, "max_coins": 19008, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 20480, "coins": 77, "max_coins": 20736, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 40960, "coins": 83, "max_coins": 22464, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 81920, "coins": 90, "max_coins": 24192, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 163840, "coins": 96, "max_coins": 25920, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 17,
+    "levels": [
+      { "level": 1, "food": 10, "coins": 6, "max_coins": 2880, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 20, "coins": 10, "max_coins": 4608, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 40, "coins": 14, "max_coins": 6912, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 80, "coins": 19, "max_coins": 9216, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 160, "coins": 24, "max_coins": 11520, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 320, "coins": 29, "max_coins": 13824, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 640, "coins": 34, "max_coins": 16128, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 1280, "coins": 38, "max_coins": 18432, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 2560, "coins": 43, "max_coins": 20736, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 5120, "coins": 48, "max_coins": 23040, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 10240, "coins": 53, "max_coins": 25344, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 20480, "coins": 58, "max_coins": 27648, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 40960, "coins": 62, "max_coins": 29952, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 81920, "coins": 67, "max_coins": 32256, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 163840, "coins": 72, "max_coins": 34560, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 18,
+    "levels": [
+      { "level": 1, "food": 10, "coins": 7, "max_coins": 2856, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 20, "coins": 11, "max_coins": 4570, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 40, "coins": 17, "max_coins": 6854, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 80, "coins": 22, "max_coins": 9139, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 160, "coins": 28, "max_coins": 11424, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 320, "coins": 34, "max_coins": 13709, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 640, "coins": 39, "max_coins": 15994, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 1280, "coins": 45, "max_coins": 18278, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 2560, "coins": 50, "max_coins": 20563, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 5120, "coins": 56, "max_coins": 22848, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 10240, "coins": 62, "max_coins": 25133, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 20480, "coins": 67, "max_coins": 27418, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 40960, "coins": 73, "max_coins": 29702, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 81920, "coins": 78, "max_coins": 31987, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 163840, "coins": 84, "max_coins": 34272, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 19,
+    "levels": [
+      { "level": 1, "food": 10, "coins": 8, "max_coins": 2880, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 20, "coins": 13, "max_coins": 4608, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 40, "coins": 19, "max_coins": 6912, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 80, "coins": 26, "max_coins": 9216, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 160, "coins": 32, "max_coins": 11520, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 320, "coins": 38, "max_coins": 13824, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 640, "coins": 45, "max_coins": 16128, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 1280, "coins": 51, "max_coins": 18432, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 2560, "coins": 58, "max_coins": 20736, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 5120, "coins": 64, "max_coins": 23040, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 10240, "coins": 70, "max_coins": 25344, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 20480, "coins": 77, "max_coins": 27648, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 40960, "coins": 83, "max_coins": 29952, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 81920, "coins": 90, "max_coins": 32256, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 163840, "coins": 96, "max_coins": 34560, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 20,
+    "levels": [
+      { "level": 1, "food": 10, "coins": 6, "max_coins": 3600, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 20, "coins": 10, "max_coins": 5760, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 40, "coins": 14, "max_coins": 8640, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 80, "coins": 19, "max_coins": 11520, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 160, "coins": 24, "max_coins": 14400, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 320, "coins": 29, "max_coins": 17280, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 640, "coins": 34, "max_coins": 20160, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 1280, "coins": 38, "max_coins": 23040, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 2560, "coins": 43, "max_coins": 25920, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 5120, "coins": 48, "max_coins": 28800, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 10240, "coins": 53, "max_coins": 31680, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 20480, "coins": 58, "max_coins": 34560, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 40960, "coins": 62, "max_coins": 37440, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 81920, "coins": 67, "max_coins": 40320, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 163840, "coins": 72, "max_coins": 43200, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 21,
+    "levels": [
+      { "level": 1, "food": 10, "coins": 8, "max_coins": 1872, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 20, "coins": 13, "max_coins": 2995, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 40, "coins": 19, "max_coins": 4493, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 80, "coins": 26, "max_coins": 5990, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 160, "coins": 32, "max_coins": 7488, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 320, "coins": 38, "max_coins": 8986, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 640, "coins": 45, "max_coins": 10483, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 1280, "coins": 51, "max_coins": 11981, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 2560, "coins": 58, "max_coins": 13478, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 5120, "coins": 64, "max_coins": 14976, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 10240, "coins": 70, "max_coins": 16474, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 20480, "coins": 77, "max_coins": 17971, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 40960, "coins": 83, "max_coins": 19469, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 81920, "coins": 90, "max_coins": 20966, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 163840, "coins": 96, "max_coins": 22464, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 22,
+    "levels": [
+      { "level": 1, "food": 10, "coins": 9, "max_coins": 1872, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 20, "coins": 14, "max_coins": 2995, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 40, "coins": 22, "max_coins": 4493, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 80, "coins": 29, "max_coins": 5990, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 160, "coins": 36, "max_coins": 7488, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 320, "coins": 43, "max_coins": 8986, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 640, "coins": 50, "max_coins": 10483, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 1280, "coins": 58, "max_coins": 11981, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 2560, "coins": 65, "max_coins": 13478, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 5120, "coins": 72, "max_coins": 14976, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 10240, "coins": 79, "max_coins": 16474, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 20480, "coins": 86, "max_coins": 17971, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 40960, "coins": 94, "max_coins": 19469, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 81920, "coins": 101, "max_coins": 20966, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 163840, "coins": 108, "max_coins": 22464, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 23,
+    "levels": [
+      { "level": 1, "food": 10, "coins": 7, "max_coins": 1890, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 20, "coins": 11, "max_coins": 3024, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 40, "coins": 17, "max_coins": 4536, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 80, "coins": 22, "max_coins": 6048, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 160, "coins": 28, "max_coins": 7560, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 320, "coins": 34, "max_coins": 9072, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 640, "coins": 39, "max_coins": 10584, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 1280, "coins": 45, "max_coins": 12096, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 2560, "coins": 50, "max_coins": 13608, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 5120, "coins": 56, "max_coins": 15120, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 10240, "coins": 62, "max_coins": 16632, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 20480, "coins": 67, "max_coins": 18144, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 40960, "coins": 73, "max_coins": 19656, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 81920, "coins": 78, "max_coins": 21168, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 163840, "coins": 84, "max_coins": 22680, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 24,
+    "levels": [
+      { "level": 1, "food": 10, "coins": 8, "max_coins": 2160, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 20, "coins": 13, "max_coins": 3456, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 40, "coins": 19, "max_coins": 5184, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 80, "coins": 26, "max_coins": 6912, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 160, "coins": 32, "max_coins": 8640, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 320, "coins": 38, "max_coins": 10368, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 640, "coins": 45, "max_coins": 12096, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 1280, "coins": 51, "max_coins": 13824, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 2560, "coins": 58, "max_coins": 15552, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 5120, "coins": 64, "max_coins": 17280, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 10240, "coins": 70, "max_coins": 19008, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 20480, "coins": 77, "max_coins": 20736, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 40960, "coins": 83, "max_coins": 22464, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 81920, "coins": 90, "max_coins": 24192, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 163840, "coins": 96, "max_coins": 25920, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 25,
+    "levels": [
+      { "level": 1, "food": 15, "coins": 11, "max_coins": 12980, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 30, "coins": 18, "max_coins": 20768, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 60, "coins": 26, "max_coins": 31152, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 120, "coins": 35, "max_coins": 41536, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 240, "coins": 44, "max_coins": 51920, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 480, "coins": 53, "max_coins": 62304, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 960, "coins": 62, "max_coins": 72688, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 1920, "coins": 70, "max_coins": 83072, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 3840, "coins": 79, "max_coins": 93456, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 7680, "coins": 88, "max_coins": 103840, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 15360, "coins": 97, "max_coins": 114224, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 30720, "coins": 106, "max_coins": 124608, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 61440, "coins": 114, "max_coins": 134992, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 122880, "coins": 123, "max_coins": 145376, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 245760, "coins": 132, "max_coins": 155760, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 26,
+    "levels": [
+      { "level": 1, "food": 15, "coins": 12, "max_coins": 12960, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 30, "coins": 19, "max_coins": 20736, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 60, "coins": 29, "max_coins": 31104, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 120, "coins": 38, "max_coins": 41472, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 240, "coins": 48, "max_coins": 51840, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 480, "coins": 58, "max_coins": 62208, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 960, "coins": 67, "max_coins": 72576, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 1920, "coins": 77, "max_coins": 82944, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 3840, "coins": 86, "max_coins": 93312, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 7680, "coins": 96, "max_coins": 103680, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 15360, "coins": 106, "max_coins": 114048, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 30720, "coins": 115, "max_coins": 124416, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 61440, "coins": 125, "max_coins": 134784, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 122880, "coins": 134, "max_coins": 145152, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 245760, "coins": 144, "max_coins": 155520, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 27,
+    "levels": [
+      { "level": 1, "food": 15, "coins": 10, "max_coins": 17280, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 30, "coins": 16, "max_coins": 27648, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 60, "coins": 24, "max_coins": 41472, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 120, "coins": 32, "max_coins": 55296, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 240, "coins": 40, "max_coins": 69120, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 480, "coins": 48, "max_coins": 82944, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 960, "coins": 56, "max_coins": 96768, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 1920, "coins": 64, "max_coins": 110592, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 3840, "coins": 72, "max_coins": 124416, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 7680, "coins": 80, "max_coins": 138240, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 15360, "coins": 88, "max_coins": 152064, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 30720, "coins": 96, "max_coins": 165888, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 61440, "coins": 104, "max_coins": 179712, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 122880, "coins": 112, "max_coins": 193536, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 245760, "coins": 120, "max_coins": 207360, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 28,
+    "levels": [
+      { "level": 1, "food": 15, "coins": 11, "max_coins": 17281, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 30, "coins": 18, "max_coins": 27650, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 60, "coins": 26, "max_coins": 41474, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 120, "coins": 35, "max_coins": 55299, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 240, "coins": 44, "max_coins": 69124, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 480, "coins": 53, "max_coins": 82949, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 960, "coins": 62, "max_coins": 96774, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 1920, "coins": 70, "max_coins": 110598, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 3840, "coins": 79, "max_coins": 124423, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 7680, "coins": 88, "max_coins": 138248, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 15360, "coins": 97, "max_coins": 152073, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 30720, "coins": 106, "max_coins": 165898, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 61440, "coins": 114, "max_coins": 179722, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 122880, "coins": 123, "max_coins": 193547, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 245760, "coins": 132, "max_coins": 207372, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 29,
+    "levels": [
+      { "level": 1, "food": 15, "coins": 12, "max_coins": 11232, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 30, "coins": 19, "max_coins": 17971, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 60, "coins": 29, "max_coins": 26957, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 120, "coins": 38, "max_coins": 35942, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 240, "coins": 48, "max_coins": 44928, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 480, "coins": 58, "max_coins": 53914, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 960, "coins": 67, "max_coins": 62899, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 1920, "coins": 77, "max_coins": 71885, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 3840, "coins": 86, "max_coins": 80870, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 7680, "coins": 96, "max_coins": 89856, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 15360, "coins": 106, "max_coins": 98842, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 30720, "coins": 115, "max_coins": 107827, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 61440, "coins": 125, "max_coins": 116813, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 122880, "coins": 134, "max_coins": 125798, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 245760, "coins": 144, "max_coins": 134784, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 30,
+    "levels": [
+      { "level": 1, "food": 20, "coins": 15, "max_coins": 43200, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 40, "coins": 24, "max_coins": 69120, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 80, "coins": 36, "max_coins": 103680, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 160, "coins": 48, "max_coins": 138240, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 320, "coins": 60, "max_coins": 172800, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 640, "coins": 72, "max_coins": 207360, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 1280, "coins": 84, "max_coins": 241920, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 2560, "coins": 96, "max_coins": 276480, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 5120, "coins": 108, "max_coins": 311040, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 10240, "coins": 120, "max_coins": 345600, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 20480, "coins": 132, "max_coins": 380160, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 40960, "coins": 144, "max_coins": 414720, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 81920, "coins": 156, "max_coins": 449280, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 163840, "coins": 168, "max_coins": 483840, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 327680, "coins": 180, "max_coins": 518400, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 31,
+    "levels": [
+      { "level": 1, "food": 10, "coins": 7, "max_coins": 2856, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 20, "coins": 11, "max_coins": 4570, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 40, "coins": 17, "max_coins": 6854, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 80, "coins": 22, "max_coins": 9139, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 160, "coins": 28, "max_coins": 11424, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 320, "coins": 34, "max_coins": 13709, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 640, "coins": 39, "max_coins": 15994, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 1280, "coins": 45, "max_coins": 18278, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 2560, "coins": 50, "max_coins": 20563, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 5120, "coins": 56, "max_coins": 22848, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 10240, "coins": 62, "max_coins": 25133, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 20480, "coins": 67, "max_coins": 27418, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 40960, "coins": 73, "max_coins": 29702, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 81920, "coins": 78, "max_coins": 31987, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 163840, "coins": 84, "max_coins": 34272, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 32,
+    "levels": [
+      { "level": 1, "food": 10, "coins": 8, "max_coins": 1872, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 20, "coins": 13, "max_coins": 2995, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 40, "coins": 19, "max_coins": 4493, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 80, "coins": 26, "max_coins": 6990, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 160, "coins": 32, "max_coins": 7488, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 320, "coins": 38, "max_coins": 8986, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 640, "coins": 45, "max_coins": 10483, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 1280, "coins": 51, "max_coins": 11981, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 2560, "coins": 58, "max_coins": 13478, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 5120, "coins": 64, "max_coins": 14976, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 10240, "coins": 70, "max_coins": 16474, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 20480, "coins": 77, "max_coins": 17971, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 40960, "coins": 83, "max_coins": 19469, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 81920, "coins": 90, "max_coins": 20966, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 163840, "coins": 96, "max_coins": 22464, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 33,
+    "levels": [
+      { "level": 1, "food": 10, "coins": 7, "max_coins": 2856, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 20, "coins": 11, "max_coins": 4570, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 40, "coins": 17, "max_coins": 6854, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 80, "coins": 22, "max_coins": 9139, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 160, "coins": 28, "max_coins": 11424, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 320, "coins": 34, "max_coins": 13709, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 640, "coins": 39, "max_coins": 15994, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 1280, "coins": 45, "max_coins": 18278, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 2560, "coins": 50, "max_coins": 20563, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 5120, "coins": 56, "max_coins": 22848, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 10240, "coins": 62, "max_coins": 25133, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 20480, "coins": 67, "max_coins": 27418, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 40960, "coins": 73, "max_coins": 29702, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 81920, "coins": 78, "max_coins": 31987, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 163840, "coins": 84, "max_coins": 34272, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 34,
+    "levels": [
+      { "level": 1, "food": 10, "coins": 7, "max_coins": 2856, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 20, "coins": 11, "max_coins": 4570, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 40, "coins": 17, "max_coins": 6854, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 80, "coins": 22, "max_coins": 9139, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 160, "coins": 28, "max_coins": 11424, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 320, "coins": 34, "max_coins": 13709, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 640, "coins": 39, "max_coins": 15994, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 1280, "coins": 45, "max_coins": 18278, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 2560, "coins": 50, "max_coins": 20563, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 5120, "coins": 56, "max_coins": 22848, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 10240, "coins": 62, "max_coins": 25133, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 20480, "coins": 67, "max_coins": 27418, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 40960, "coins": 73, "max_coins": 29702, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 81920, "coins": 78, "max_coins": 31987, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 163840, "coins": 84, "max_coins": 34272, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 35,
+    "levels": [
+      { "level": 1, "food": 20, "coins": 15, "max_coins": 43200, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 40, "coins": 24, "max_coins": 69120, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 80, "coins": 36, "max_coins": 103680, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 160, "coins": 48, "max_coins": 138240, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 320, "coins": 60, "max_coins": 172800, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 640, "coins": 72, "max_coins": 207360, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 1280, "coins": 84, "max_coins": 241920, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 2560, "coins": 96, "max_coins": 276480, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 5120, "coins": 108, "max_coins": 311040, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 10240, "coins": 120, "max_coins": 345600, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 20480, "coins": 132, "max_coins": 380160, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 40960, "coins": 144, "max_coins": 414720, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 81920, "coins": 156, "max_coins": 449280, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 163840, "coins": 168, "max_coins": 483840, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 0, "coins": 180, "max_coins": 518400, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 36,
+    "levels": [
+      { "level": 1, "food": 20, "coins": 15, "max_coins": 43200, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 40, "coins": 24, "max_coins": 69120, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 80, "coins": 36, "max_coins": 103680, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 160, "coins": 48, "max_coins": 138240, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 320, "coins": 60, "max_coins": 172800, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 640, "coins": 72, "max_coins": 207360, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 1280, "coins": 84, "max_coins": 241920, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 2560, "coins": 96, "max_coins": 276480, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 5120, "coins": 108, "max_coins": 311040, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 10240, "coins": 120, "max_coins": 345600, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 20480, "coins": 132, "max_coins": 380160, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 40960, "coins": 144, "max_coins": 414720, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 81920, "coins": 156, "max_coins": 449280, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 163840, "coins": 168, "max_coins": 483840, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 0, "coins": 180, "max_coins": 518400, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 37,
+    "levels": [
+      { "level": 1, "food": 20, "coins": 15, "max_coins": 43200, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 40, "coins": 24, "max_coins": 69120, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 80, "coins": 36, "max_coins": 103680, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 160, "coins": 48, "max_coins": 138240, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 320, "coins": 60, "max_coins": 172800, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 640, "coins": 72, "max_coins": 207360, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 1280, "coins": 84, "max_coins": 241920, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 2560, "coins": 96, "max_coins": 276480, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 5120, "coins": 108, "max_coins": 311040, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 10240, "coins": 120, "max_coins": 345600, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 20480, "coins": 132, "max_coins": 380160, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 40960, "coins": 144, "max_coins": 414720, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 81920, "coins": 156, "max_coins": 449280, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 163840, "coins": 168, "max_coins": 483840, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 0, "coins": 180, "max_coins": 518400, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 38,
+    "levels": [
+      { "level": 1, "food": 20, "coins": 15, "max_coins": 43200, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 40, "coins": 24, "max_coins": 69120, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 80, "coins": 36, "max_coins": 103680, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 160, "coins": 48, "max_coins": 138240, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 320, "coins": 60, "max_coins": 172800, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 640, "coins": 72, "max_coins": 207360, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 1280, "coins": 84, "max_coins": 241920, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 2560, "coins": 96, "max_coins": 276480, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 5120, "coins": 108, "max_coins": 311040, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 10240, "coins": 120, "max_coins": 345600, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 20480, "coins": 132, "max_coins": 380160, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 40960, "coins": 144, "max_coins": 414720, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 81920, "coins": 156, "max_coins": 449280, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 163840, "coins": 168, "max_coins": 483840, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 0, "coins": 180, "max_coins": 518400, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 39,
+    "levels": [
+      { "level": 1, "food": 20, "coins": 15, "max_coins": 43200, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 40, "coins": 24, "max_coins": 69120, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 80, "coins": 36, "max_coins": 103680, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 160, "coins": 48, "max_coins": 138240, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 320, "coins": 60, "max_coins": 172800, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 640, "coins": 72, "max_coins": 207360, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 1280, "coins": 84, "max_coins": 241920, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 2560, "coins": 96, "max_coins": 276480, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 5120, "coins": 108, "max_coins": 311040, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 10240, "coins": 120, "max_coins": 345600, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 20480, "coins": 132, "max_coins": 380160, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 40960, "coins": 144, "max_coins": 414720, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 81920, "coins": 156, "max_coins": 449280, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 163840, "coins": 168, "max_coins": 483840, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 0, "coins": 180, "max_coins": 518400, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 49,
+    "levels": [
+      { "level": 1, "food": 10, "coins": 6, "max_coins": 2880, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 20, "coins": 10, "max_coins": 4608, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 40, "coins": 14, "max_coins": 6912, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 80, "coins": 19, "max_coins": 9216, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 160, "coins": 24, "max_coins": 11520, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 320, "coins": 29, "max_coins": 13824, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 640, "coins": 34, "max_coins": 16128, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 1280, "coins": 38, "max_coins": 18432, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 2560, "coins": 43, "max_coins": 20736, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 5120, "coins": 48, "max_coins": 23040, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 10240, "coins": 53, "max_coins": 25344, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 20480, "coins": 58, "max_coins": 27648, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 40960, "coins": 62, "max_coins": 29952, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 81920, "coins": 67, "max_coins": 32256, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 0, "coins": 72, "max_coins": 34560, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 50,
+    "levels": [
+      { "level": 1, "food": 20, "coins": 14, "max_coins": 24000, "ethereal_currency": 2, "max_ethereal": 24 },
+      { "level": 2, "food": 40, "coins": 22, "max_coins": 38400, "ethereal_currency": 3, "max_ethereal": 38 },
+      { "level": 3, "food": 80, "coins": 33, "max_coins": 57600, "ethereal_currency": 5, "max_ethereal": 58 },
+      { "level": 4, "food": 160, "coins": 44, "max_coins": 76800, "ethereal_currency": 6, "max_ethereal": 77 },
+      { "level": 5, "food": 320, "coins": 56, "max_coins": 96000, "ethereal_currency": 8, "max_ethereal": 96 },
+      { "level": 6, "food": 640, "coins": 67, "max_coins": 115200, "ethereal_currency": 10, "max_ethereal": 115 },
+      { "level": 7, "food": 1280, "coins": 78, "max_coins": 134400, "ethereal_currency": 11, "max_ethereal": 134 },
+      { "level": 8, "food": 2560, "coins": 89, "max_coins": 153600, "ethereal_currency": 13, "max_ethereal": 154 },
+      { "level": 9, "food": 5120, "coins": 100, "max_coins": 172800, "ethereal_currency": 14, "max_ethereal": 173 },
+      { "level": 10, "food": 10240, "coins": 112, "max_coins": 192000, "ethereal_currency": 16, "max_ethereal": 192 },
+      { "level": 11, "food": 20480, "coins": 123, "max_coins": 211200, "ethereal_currency": 18, "max_ethereal": 211 },
+      { "level": 12, "food": 40960, "coins": 134, "max_coins": 230400, "ethereal_currency": 19, "max_ethereal": 230 },
+      { "level": 13, "food": 81920, "coins": 145, "max_coins": 249600, "ethereal_currency": 21, "max_ethereal": 250 },
+      { "level": 14, "food": 163840, "coins": 156, "max_coins": 268800, "ethereal_currency": 22, "max_ethereal": 269 },
+      { "level": 15, "food": 0, "coins": 168, "max_coins": 288000, "ethereal_currency": 24, "max_ethereal": 288 }
+    ]
+  },
+  {
+    "monster": 51,
+    "levels": [
+      { "level": 1, "food": 20, "coins": 13, "max_coins": 25000, "ethereal_currency": 2, "max_ethereal": 25 },
+      { "level": 2, "food": 40, "coins": 20, "max_coins": 40000, "ethereal_currency": 3, "max_ethereal": 40 },
+      { "level": 3, "food": 80, "coins": 31, "max_coins": 60000, "ethereal_currency": 5, "max_ethereal": 60 },
+      { "level": 4, "food": 160, "coins": 41, "max_coins": 80000, "ethereal_currency": 6, "max_ethereal": 80 },
+      { "level": 5, "food": 320, "coins": 52, "max_coins": 100000, "ethereal_currency": 8, "max_ethereal": 100 },
+      { "level": 6, "food": 640, "coins": 62, "max_coins": 120000, "ethereal_currency": 10, "max_ethereal": 120 },
+      { "level": 7, "food": 1280, "coins": 72, "max_coins": 140000, "ethereal_currency": 11, "max_ethereal": 140 },
+      { "level": 8, "food": 2560, "coins": 83, "max_coins": 160000, "ethereal_currency": 13, "max_ethereal": 160 },
+      { "level": 9, "food": 5120, "coins": 93, "max_coins": 180000, "ethereal_currency": 14, "max_ethereal": 180 },
+      { "level": 10, "food": 10240, "coins": 104, "max_coins": 200000, "ethereal_currency": 16, "max_ethereal": 200 },
+      { "level": 11, "food": 20480, "coins": 114, "max_coins": 220000, "ethereal_currency": 18, "max_ethereal": 220 },
+      { "level": 12, "food": 40960, "coins": 124, "max_coins": 240000, "ethereal_currency": 19, "max_ethereal": 240 },
+      { "level": 13, "food": 81920, "coins": 135, "max_coins": 260000, "ethereal_currency": 21, "max_ethereal": 260 },
+      { "level": 14, "food": 163840, "coins": 145, "max_coins": 280000, "ethereal_currency": 22, "max_ethereal": 280 },
+      { "level": 15, "food": 0, "coins": 156, "max_coins": 300000, "ethereal_currency": 24, "max_ethereal": 300 }
+    ]
+  },
+  {
+    "monster": 52,
+    "levels": [
+      { "level": 1, "food": 10, "coins": 6, "max_coins": 3600, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 20, "coins": 10, "max_coins": 5760, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 40, "coins": 14, "max_coins": 8640, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 80, "coins": 19, "max_coins": 11520, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 160, "coins": 24, "max_coins": 14400, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 320, "coins": 29, "max_coins": 17280, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 640, "coins": 34, "max_coins": 20160, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 1280, "coins": 38, "max_coins": 23040, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 2560, "coins": 43, "max_coins": 25920, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 5120, "coins": 48, "max_coins": 28800, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 10240, "coins": 53, "max_coins": 31680, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 20480, "coins": 58, "max_coins": 34560, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 40960, "coins": 62, "max_coins": 37440, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 81920, "coins": 67, "max_coins": 40320, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 163840, "coins": 72, "max_coins": 43200, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 53,
+    "levels": [
+      { "level": 1, "food": 20, "coins": 11, "max_coins": 3762, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 40, "coins": 18, "max_coins": 6019, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 80, "coins": 26, "max_coins": 9029, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 160, "coins": 35, "max_coins": 12038, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 320, "coins": 44, "max_coins": 15048, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 640, "coins": 53, "max_coins": 18058, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 1280, "coins": 62, "max_coins": 21067, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 2560, "coins": 70, "max_coins": 24077, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 5120, "coins": 79, "max_coins": 27086, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 10240, "coins": 88, "max_coins": 30096, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 20480, "coins": 100, "max_coins": 33105, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 40960, "coins": 112, "max_coins": 36115, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 81920, "coins": 123, "max_coins": 39124, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 163840, "coins": 134, "max_coins": 42134, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 0, "coins": 145, "max_coins": 45143, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 54,
+    "levels": [
+      { "level": 1, "food": 20, "coins": 14, "max_coins": 23000, "ethereal_currency": 2, "max_ethereal": 23 },
+      { "level": 2, "food": 40, "coins": 22, "max_coins": 36800, "ethereal_currency": 3, "max_ethereal": 37 },
+      { "level": 3, "food": 80, "coins": 34, "max_coins": 55200, "ethereal_currency": 5, "max_ethereal": 55 },
+      { "level": 4, "food": 160, "coins": 45, "max_coins": 73600, "ethereal_currency": 6, "max_ethereal": 74 },
+      { "level": 5, "food": 320, "coins": 56, "max_coins": 92000, "ethereal_currency": 8, "max_ethereal": 92 },
+      { "level": 6, "food": 640, "coins": 67, "max_coins": 110400, "ethereal_currency": 10, "max_ethereal": 110 },
+      { "level": 7, "food": 1280, "coins": 78, "max_coins": 128800, "ethereal_currency": 11, "max_ethereal": 129 },
+      { "level": 8, "food": 2560, "coins": 90, "max_coins": 147200, "ethereal_currency": 13, "max_ethereal": 147 },
+      { "level": 9, "food": 5120, "coins": 101, "max_coins": 165600, "ethereal_currency": 14, "max_ethereal": 166 },
+      { "level": 10, "food": 10240, "coins": 112, "max_coins": 184000, "ethereal_currency": 16, "max_ethereal": 184 },
+      { "level": 11, "food": 20480, "coins": 123, "max_coins": 202400, "ethereal_currency": 18, "max_ethereal": 202 },
+      { "level": 12, "food": 40960, "coins": 134, "max_coins": 220800, "ethereal_currency": 19, "max_ethereal": 221 },
+      { "level": 13, "food": 81920, "coins": 146, "max_coins": 239200, "ethereal_currency": 21, "max_ethereal": 239 },
+      { "level": 14, "food": 163840, "coins": 157, "max_coins": 257600, "ethereal_currency": 22, "max_ethereal": 258 },
+      { "level": 15, "food": 0, "coins": 168, "max_coins": 276000, "ethereal_currency": 24, "max_ethereal": 276 }
+    ]
+  },
+  {
+    "monster": 55,
+    "levels": [
+      { "level": 1, "food": 40, "coins": 0, "max_coins": 0, "ethereal_currency": 3, "max_ethereal": 32 },
+      { "level": 2, "food": 80, "coins": 0, "max_coins": 0, "ethereal_currency": 5, "max_ethereal": 51 },
+      { "level": 3, "food": 160, "coins": 0, "max_coins": 0, "ethereal_currency": 7, "max_ethereal": 77 },
+      { "level": 4, "food": 320, "coins": 0, "max_coins": 0, "ethereal_currency": 10, "max_ethereal": 102 },
+      { "level": 5, "food": 640, "coins": 0, "max_coins": 0, "ethereal_currency": 12, "max_ethereal": 128 },
+      { "level": 6, "food": 1280, "coins": 0, "max_coins": 0, "ethereal_currency": 14, "max_ethereal": 154 },
+      { "level": 7, "food": 2560, "coins": 0, "max_coins": 0, "ethereal_currency": 17, "max_ethereal": 179 },
+      { "level": 8, "food": 5120, "coins": 0, "max_coins": 0, "ethereal_currency": 19, "max_ethereal": 205 },
+      { "level": 9, "food": 10240, "coins": 0, "max_coins": 0, "ethereal_currency": 22, "max_ethereal": 230 },
+      { "level": 10, "food": 20480, "coins": 0, "max_coins": 0, "ethereal_currency": 24, "max_ethereal": 256 },
+      { "level": 11, "food": 40960, "coins": 0, "max_coins": 0, "ethereal_currency": 26, "max_ethereal": 282 },
+      { "level": 12, "food": 81920, "coins": 0, "max_coins": 0, "ethereal_currency": 29, "max_ethereal": 307 },
+      { "level": 13, "food": 163840, "coins": 0, "max_coins": 0, "ethereal_currency": 31, "max_ethereal": 333 },
+      { "level": 14, "food": 327680, "coins": 0, "max_coins": 0, "ethereal_currency": 34, "max_ethereal": 358 },
+      { "level": 15, "food": 0, "coins": 0, "max_coins": 0, "ethereal_currency": 36, "max_ethereal": 384 }
+    ]
+  },
+  {
+    "monster": 56,
+    "levels": [
+      { "level": 1, "food": 40, "coins": 0, "max_coins": 0, "ethereal_currency": 3, "max_ethereal": 30 },
+      { "level": 2, "food": 80, "coins": 0, "max_coins": 0, "ethereal_currency": 5, "max_ethereal": 48 },
+      { "level": 3, "food": 160, "coins": 0, "max_coins": 0, "ethereal_currency": 7, "max_ethereal": 72 },
+      { "level": 4, "food": 320, "coins": 0, "max_coins": 0, "ethereal_currency": 10, "max_ethereal": 96 },
+      { "level": 5, "food": 640, "coins": 0, "max_coins": 0, "ethereal_currency": 12, "max_ethereal": 120 },
+      { "level": 6, "food": 1280, "coins": 0, "max_coins": 0, "ethereal_currency": 14, "max_ethereal": 144 },
+      { "level": 7, "food": 2560, "coins": 0, "max_coins": 0, "ethereal_currency": 17, "max_ethereal": 168 },
+      { "level": 8, "food": 5120, "coins": 0, "max_coins": 0, "ethereal_currency": 19, "max_ethereal": 192 },
+      { "level": 9, "food": 10240, "coins": 0, "max_coins": 0, "ethereal_currency": 22, "max_ethereal": 216 },
+      { "level": 10, "food": 20480, "coins": 0, "max_coins": 0, "ethereal_currency": 24, "max_ethereal": 240 },
+      { "level": 11, "food": 40960, "coins": 0, "max_coins": 0, "ethereal_currency": 26, "max_ethereal": 264 },
+      { "level": 12, "food": 81920, "coins": 0, "max_coins": 0, "ethereal_currency": 29, "max_ethereal": 288 },
+      { "level": 13, "food": 163840, "coins": 0, "max_coins": 0, "ethereal_currency": 31, "max_ethereal": 312 },
+      { "level": 14, "food": 327680, "coins": 0, "max_coins": 0, "ethereal_currency": 34, "max_ethereal": 336 },
+      { "level": 15, "food": 0, "coins": 0, "max_coins": 0, "ethereal_currency": 36, "max_ethereal": 360 }
+    ]
+  },
+  {
+    "monster": 57,
+    "levels": [
+      { "level": 1, "food": 40, "coins": 0, "max_coins": 0, "ethereal_currency": 3, "max_ethereal": 32 },
+      { "level": 2, "food": 80, "coins": 0, "max_coins": 0, "ethereal_currency": 5, "max_ethereal": 51 },
+      { "level": 3, "food": 160, "coins": 0, "max_coins": 0, "ethereal_currency": 7, "max_ethereal": 77 },
+      { "level": 4, "food": 320, "coins": 0, "max_coins": 0, "ethereal_currency": 10, "max_ethereal": 102 },
+      { "level": 5, "food": 640, "coins": 0, "max_coins": 0, "ethereal_currency": 12, "max_ethereal": 128 },
+      { "level": 6, "food": 1280, "coins": 0, "max_coins": 0, "ethereal_currency": 14, "max_ethereal": 154 },
+      { "level": 7, "food": 2560, "coins": 0, "max_coins": 0, "ethereal_currency": 17, "max_ethereal": 179 },
+      { "level": 8, "food": 5120, "coins": 0, "max_coins": 0, "ethereal_currency": 19, "max_ethereal": 205 },
+      { "level": 9, "food": 10240, "coins": 0, "max_coins": 0, "ethereal_currency": 22, "max_ethereal": 230 },
+      { "level": 10, "food": 20480, "coins": 0, "max_coins": 0, "ethereal_currency": 24, "max_ethereal": 256 },
+      { "level": 11, "food": 40960, "coins": 0, "max_coins": 0, "ethereal_currency": 26, "max_ethereal": 282 },
+      { "level": 12, "food": 81920, "coins": 0, "max_coins": 0, "ethereal_currency": 29, "max_ethereal": 307 },
+      { "level": 13, "food": 163840, "coins": 0, "max_coins": 0, "ethereal_currency": 31, "max_ethereal": 333 },
+      { "level": 14, "food": 327680, "coins": 0, "max_coins": 0, "ethereal_currency": 34, "max_ethereal": 358 },
+      { "level": 15, "food": 0, "coins": 0, "max_coins": 0, "ethereal_currency": 36, "max_ethereal": 384 }
+    ]
+  },
+  {
+    "monster": 58,
+    "levels": [
+      { "level": 1, "food": 20, "coins": 13, "max_coins": 25000, "ethereal_currency": 2, "max_ethereal": 25 },
+      { "level": 2, "food": 40, "coins": 21, "max_coins": 40000, "ethereal_currency": 3, "max_ethereal": 40 },
+      { "level": 3, "food": 80, "coins": 31, "max_coins": 60000, "ethereal_currency": 5, "max_ethereal": 60 },
+      { "level": 4, "food": 160, "coins": 42, "max_coins": 80000, "ethereal_currency": 6, "max_ethereal": 80 },
+      { "level": 5, "food": 320, "coins": 52, "max_coins": 100000, "ethereal_currency": 8, "max_ethereal": 100 },
+      { "level": 6, "food": 640, "coins": 62, "max_coins": 120000, "ethereal_currency": 10, "max_ethereal": 120 },
+      { "level": 7, "food": 1280, "coins": 73, "max_coins": 140000, "ethereal_currency": 11, "max_ethereal": 140 },
+      { "level": 8, "food": 2560, "coins": 83, "max_coins": 160000, "ethereal_currency": 13, "max_ethereal": 160 },
+      { "level": 9, "food": 5120, "coins": 94, "max_coins": 180000, "ethereal_currency": 14, "max_ethereal": 180 },
+      { "level": 10, "food": 10240, "coins": 104, "max_coins": 200000, "ethereal_currency": 16, "max_ethereal": 200 },
+      { "level": 11, "food": 20480, "coins": 114, "max_coins": 220000, "ethereal_currency": 18, "max_ethereal": 220 },
+      { "level": 12, "food": 40960, "coins": 125, "max_coins": 240000, "ethereal_currency": 19, "max_ethereal": 240 },
+      { "level": 13, "food": 81920, "coins": 135, "max_coins": 260000, "ethereal_currency": 21, "max_ethereal": 260 },
+      { "level": 14, "food": 163840, "coins": 146, "max_coins": 280000, "ethereal_currency": 22, "max_ethereal": 280 },
+      { "level": 15, "food": 0, "coins": 156, "max_coins": 300000, "ethereal_currency": 24, "max_ethereal": 300 }
+    ]
+  },
+  {
+    "monster": 59,
+    "levels": [
+      { "level": 1, "food": 40, "coins": 0, "max_coins": 0, "ethereal_currency": 3, "max_ethereal": 32 },
+      { "level": 2, "food": 80, "coins": 0, "max_coins": 0, "ethereal_currency": 5, "max_ethereal": 51 },
+      { "level": 3, "food": 160, "coins": 0, "max_coins": 0, "ethereal_currency": 7, "max_ethereal": 77 },
+      { "level": 4, "food": 320, "coins": 0, "max_coins": 0, "ethereal_currency": 10, "max_ethereal": 102 },
+      { "level": 5, "food": 640, "coins": 0, "max_coins": 0, "ethereal_currency": 12, "max_ethereal": 128 },
+      { "level": 6, "food": 1280, "coins": 0, "max_coins": 0, "ethereal_currency": 14, "max_ethereal": 154 },
+      { "level": 7, "food": 2560, "coins": 0, "max_coins": 0, "ethereal_currency": 17, "max_ethereal": 179 },
+      { "level": 8, "food": 5120, "coins": 0, "max_coins": 0, "ethereal_currency": 19, "max_ethereal": 205 },
+      { "level": 9, "food": 10240, "coins": 0, "max_coins": 0, "ethereal_currency": 22, "max_ethereal": 230 },
+      { "level": 10, "food": 20480, "coins": 0, "max_coins": 0, "ethereal_currency": 24, "max_ethereal": 256 },
+      { "level": 11, "food": 40960, "coins": 0, "max_coins": 0, "ethereal_currency": 26, "max_ethereal": 282 },
+      { "level": 12, "food": 81920, "coins": 0, "max_coins": 0, "ethereal_currency": 29, "max_ethereal": 307 },
+      { "level": 13, "food": 163840, "coins": 0, "max_coins": 0, "ethereal_currency": 31, "max_ethereal": 333 },
+      { "level": 14, "food": 327680, "coins": 0, "max_coins": 0, "ethereal_currency": 34, "max_ethereal": 358 },
+      { "level": 15, "food": 0, "coins": 0, "max_coins": 0, "ethereal_currency": 36, "max_ethereal": 384 }
+    ]
+  },
+  {
+    "monster": 60,
+    "levels": [
+      { "level": 1, "food": 5, "coins": 3, "max_coins": 18, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 10, "coins": 5, "max_coins": 29, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 20, "coins": 7, "max_coins": 43, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 40, "coins": 10, "max_coins": 58, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 80, "coins": 12, "max_coins": 72, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 160, "coins": 14, "max_coins": 86, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 320, "coins": 17, "max_coins": 101, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 640, "coins": 19, "max_coins": 115, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 1280, "coins": 22, "max_coins": 130, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 2560, "coins": 24, "max_coins": 144, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 5120, "coins": 26, "max_coins": 158, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 10240, "coins": 29, "max_coins": 173, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 20480, "coins": 31, "max_coins": 187, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 40960, "coins": 34, "max_coins": 202, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 81920, "coins": 36, "max_coins": 216, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 61,
+    "levels": [
+      { "level": 1, "food": 5, "coins": 3, "max_coins": 30, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 10, "coins": 5, "max_coins": 48, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 20, "coins": 7, "max_coins": 72, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 40, "coins": 10, "max_coins": 96, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 80, "coins": 12, "max_coins": 120, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 160, "coins": 14, "max_coins": 144, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 320, "coins": 17, "max_coins": 168, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 640, "coins": 19, "max_coins": 192, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 1280, "coins": 22, "max_coins": 216, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 2560, "coins": 24, "max_coins": 240, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 5120, "coins": 26, "max_coins": 264, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 10240, "coins": 29, "max_coins": 288, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 20480, "coins": 31, "max_coins": 312, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 40960, "coins": 34, "max_coins": 336, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 81920, "coins": 36, "max_coins": 360, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 62,
+    "levels": [
+      { "level": 1, "food": 5, "coins": 3, "max_coins": 225, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 10, "coins": 5, "max_coins": 360, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 20, "coins": 7, "max_coins": 540, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 40, "coins": 10, "max_coins": 720, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 80, "coins": 12, "max_coins": 900, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 160, "coins": 14, "max_coins": 1080, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 320, "coins": 17, "max_coins": 1260, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 640, "coins": 19, "max_coins": 1440, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 1280, "coins": 22, "max_coins": 1620, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 2560, "coins": 24, "max_coins": 1800, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 5120, "coins": 26, "max_coins": 1980, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 10240, "coins": 29, "max_coins": 2160, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 20480, "coins": 31, "max_coins": 2340, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 40960, "coins": 34, "max_coins": 2520, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 81920, "coins": 36, "max_coins": 2700, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 63,
+    "levels": [
+      { "level": 1, "food": 5, "coins": 5, "max_coins": 300, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 10, "coins": 8, "max_coins": 480, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 20, "coins": 12, "max_coins": 720, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 40, "coins": 16, "max_coins": 960, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 80, "coins": 20, "max_coins": 1200, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 160, "coins": 24, "max_coins": 1440, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 320, "coins": 28, "max_coins": 1680, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 640, "coins": 32, "max_coins": 1920, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 1280, "coins": 36, "max_coins": 2160, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 2560, "coins": 40, "max_coins": 2400, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 5120, "coins": 44, "max_coins": 2640, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 10240, "coins": 48, "max_coins": 2880, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 20480, "coins": 52, "max_coins": 3120, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 40960, "coins": 56, "max_coins": 3360, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 81920, "coins": 60, "max_coins": 3600, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 64,
+    "levels": [
+      { "level": 1, "food": 5, "coins": 5, "max_coins": 225, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 10, "coins": 8, "max_coins": 360, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 20, "coins": 12, "max_coins": 540, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 40, "coins": 16, "max_coins": 720, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 80, "coins": 20, "max_coins": 900, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 160, "coins": 24, "max_coins": 1080, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 320, "coins": 28, "max_coins": 1260, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 640, "coins": 32, "max_coins": 1440, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 1280, "coins": 36, "max_coins": 1620, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 2560, "coins": 40, "max_coins": 1800, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 5120, "coins": 44, "max_coins": 1980, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 10240, "coins": 48, "max_coins": 2160, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 20480, "coins": 52, "max_coins": 2340, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 40960, "coins": 56, "max_coins": 2520, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 81920, "coins": 60, "max_coins": 2700, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 65,
+    "levels": [
+      { "level": 1, "food": 10, "coins": 8, "max_coins": 2880, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 20, "coins": 13, "max_coins": 4608, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 40, "coins": 19, "max_coins": 6912, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 80, "coins": 26, "max_coins": 9216, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 160, "coins": 32, "max_coins": 11520, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 320, "coins": 38, "max_coins": 13824, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 640, "coins": 45, "max_coins": 16128, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 1280, "coins": 51, "max_coins": 18432, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 2560, "coins": 58, "max_coins": 20736, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 5120, "coins": 64, "max_coins": 23040, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 10240, "coins": 70, "max_coins": 25344, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 20480, "coins": 77, "max_coins": 27648, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 40960, "coins": 83, "max_coins": 29952, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 81920, "coins": 90, "max_coins": 32256, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 163840, "coins": 96, "max_coins": 34560, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 66,
+    "levels": [
+      { "level": 1, "food": 15, "coins": 10, "max_coins": 17280, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 30, "coins": 16, "max_coins": 27648, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 60, "coins": 24, "max_coins": 41472, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 120, "coins": 32, "max_coins": 55296, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 240, "coins": 40, "max_coins": 69120, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 480, "coins": 48, "max_coins": 82944, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 960, "coins": 56, "max_coins": 96768, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 1920, "coins": 64, "max_coins": 110592, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 3840, "coins": 72, "max_coins": 124416, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 7680, "coins": 80, "max_coins": 138240, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 15360, "coins": 88, "max_coins": 152064, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 30720, "coins": 96, "max_coins": 165888, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 61440, "coins": 104, "max_coins": 179712, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 122880, "coins": 112, "max_coins": 193536, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 245760, "coins": 120, "max_coins": 207360, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 67,
+    "levels": [
+      { "level": 1, "food": 20, "coins": 11, "max_coins": 3762, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 40, "coins": 18, "max_coins": 6019, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 80, "coins": 26, "max_coins": 9029, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 160, "coins": 35, "max_coins": 12038, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 320, "coins": 44, "max_coins": 15048, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 640, "coins": 53, "max_coins": 18058, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 1280, "coins": 62, "max_coins": 21067, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 2560, "coins": 70, "max_coins": 24077, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 5120, "coins": 79, "max_coins": 27086, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 10240, "coins": 88, "max_coins": 30096, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 20480, "coins": 100, "max_coins": 33105, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 40960, "coins": 112, "max_coins": 36115, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 81920, "coins": 123, "max_coins": 39124, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 163840, "coins": 134, "max_coins": 42134, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 0, "coins": 145, "max_coins": 45143, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 68,
+    "levels": [
+      { "level": 1, "food": 20, "coins": 11, "max_coins": 3762, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 40, "coins": 18, "max_coins": 6019, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 80, "coins": 26, "max_coins": 9029, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 160, "coins": 35, "max_coins": 12038, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 320, "coins": 44, "max_coins": 15048, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 640, "coins": 53, "max_coins": 18058, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 1280, "coins": 62, "max_coins": 21067, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 2560, "coins": 70, "max_coins": 24077, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 5120, "coins": 79, "max_coins": 27086, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 10240, "coins": 88, "max_coins": 30096, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 20480, "coins": 100, "max_coins": 33105, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 40960, "coins": 112, "max_coins": 36115, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 81920, "coins": 123, "max_coins": 39124, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 163840, "coins": 134, "max_coins": 42134, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 0, "coins": 145, "max_coins": 45143, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 69,
+    "levels": [
+      { "level": 1, "food": 20, "coins": 11, "max_coins": 3762, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 40, "coins": 18, "max_coins": 6019, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 80, "coins": 26, "max_coins": 9029, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 160, "coins": 35, "max_coins": 12038, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 320, "coins": 44, "max_coins": 15048, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 640, "coins": 53, "max_coins": 18058, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 1280, "coins": 62, "max_coins": 21067, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 2560, "coins": 70, "max_coins": 24077, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 5120, "coins": 79, "max_coins": 27086, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 10240, "coins": 88, "max_coins": 30096, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 20480, "coins": 100, "max_coins": 33105, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 40960, "coins": 112, "max_coins": 36115, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 81920, "coins": 123, "max_coins": 39124, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 163840, "coins": 134, "max_coins": 42134, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 0, "coins": 145, "max_coins": 45143, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 70,
+    "levels": [
+      { "level": 1, "food": 20, "coins": 11, "max_coins": 3762, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 40, "coins": 18, "max_coins": 6019, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 80, "coins": 26, "max_coins": 9029, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 160, "coins": 35, "max_coins": 12038, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 320, "coins": 44, "max_coins": 15048, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 640, "coins": 53, "max_coins": 18058, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 1280, "coins": 62, "max_coins": 21067, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 2560, "coins": 70, "max_coins": 24077, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 5120, "coins": 79, "max_coins": 27086, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 10240, "coins": 88, "max_coins": 30096, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 20480, "coins": 100, "max_coins": 33105, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 40960, "coins": 112, "max_coins": 36115, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 81920, "coins": 123, "max_coins": 39124, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 163840, "coins": 134, "max_coins": 42134, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 0, "coins": 145, "max_coins": 45143, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 71,
+    "levels": [
+      { "level": 1, "food": 20, "coins": 11, "max_coins": 3762, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 40, "coins": 18, "max_coins": 6019, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 80, "coins": 26, "max_coins": 9029, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 160, "coins": 35, "max_coins": 12038, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 320, "coins": 44, "max_coins": 15048, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 640, "coins": 53, "max_coins": 18058, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 1280, "coins": 62, "max_coins": 21067, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 2560, "coins": 70, "max_coins": 24077, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 5120, "coins": 79, "max_coins": 27086, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 10240, "coins": 88, "max_coins": 30096, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 20480, "coins": 100, "max_coins": 33105, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 40960, "coins": 112, "max_coins": 36115, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 81920, "coins": 123, "max_coins": 39124, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 163840, "coins": 134, "max_coins": 42134, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 0, "coins": 145, "max_coins": 45143, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 72,
+    "levels": [
+      { "level": 1, "food": 20, "coins": 11, "max_coins": 3762, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 40, "coins": 18, "max_coins": 6019, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 80, "coins": 26, "max_coins": 9029, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 160, "coins": 35, "max_coins": 12038, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 320, "coins": 44, "max_coins": 15048, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 640, "coins": 53, "max_coins": 18058, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 1280, "coins": 62, "max_coins": 21067, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 2560, "coins": 70, "max_coins": 24077, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 5120, "coins": 79, "max_coins": 27086, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 10240, "coins": 88, "max_coins": 30096, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 20480, "coins": 100, "max_coins": 33105, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 40960, "coins": 112, "max_coins": 36115, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 81920, "coins": 123, "max_coins": 39124, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 163840, "coins": 134, "max_coins": 42134, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 0, "coins": 145, "max_coins": 45143, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 73,
+    "levels": [
+      { "level": 1, "food": 20, "coins": 11, "max_coins": 3762, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 40, "coins": 18, "max_coins": 6019, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 80, "coins": 26, "max_coins": 9029, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 160, "coins": 35, "max_coins": 12038, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 320, "coins": 44, "max_coins": 15048, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 640, "coins": 53, "max_coins": 18058, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 1280, "coins": 62, "max_coins": 21067, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 2560, "coins": 70, "max_coins": 24077, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 5120, "coins": 79, "max_coins": 27086, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 10240, "coins": 88, "max_coins": 30096, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 20480, "coins": 100, "max_coins": 33105, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 40960, "coins": 112, "max_coins": 36115, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 81920, "coins": 123, "max_coins": 39124, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 163840, "coins": 134, "max_coins": 42134, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 0, "coins": 145, "max_coins": 45143, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 74,
+    "levels": [
+      { "level": 1, "food": 20, "coins": 11, "max_coins": 3762, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 40, "coins": 18, "max_coins": 6019, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 80, "coins": 26, "max_coins": 9029, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 160, "coins": 35, "max_coins": 12038, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 320, "coins": 44, "max_coins": 15048, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 640, "coins": 53, "max_coins": 18058, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 1280, "coins": 62, "max_coins": 21067, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 2560, "coins": 70, "max_coins": 24077, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 5120, "coins": 79, "max_coins": 27086, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 10240, "coins": 88, "max_coins": 30096, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 20480, "coins": 100, "max_coins": 33105, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 40960, "coins": 112, "max_coins": 36115, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 81920, "coins": 123, "max_coins": 39124, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 163840, "coins": 134, "max_coins": 42134, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 0, "coins": 145, "max_coins": 45143, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 75,
+    "levels": [
+      { "level": 1, "food": 40, "coins": 0, "max_coins": 0, "ethereal_currency": 3, "max_ethereal": 32 },
+      { "level": 2, "food": 80, "coins": 0, "max_coins": 0, "ethereal_currency": 5, "max_ethereal": 51 },
+      { "level": 3, "food": 160, "coins": 0, "max_coins": 0, "ethereal_currency": 7, "max_ethereal": 77 },
+      { "level": 4, "food": 320, "coins": 0, "max_coins": 0, "ethereal_currency": 10, "max_ethereal": 102 },
+      { "level": 5, "food": 640, "coins": 0, "max_coins": 0, "ethereal_currency": 12, "max_ethereal": 128 },
+      { "level": 6, "food": 1280, "coins": 0, "max_coins": 0, "ethereal_currency": 14, "max_ethereal": 154 },
+      { "level": 7, "food": 2560, "coins": 0, "max_coins": 0, "ethereal_currency": 17, "max_ethereal": 179 },
+      { "level": 8, "food": 5120, "coins": 0, "max_coins": 0, "ethereal_currency": 19, "max_ethereal": 205 },
+      { "level": 9, "food": 10240, "coins": 0, "max_coins": 0, "ethereal_currency": 22, "max_ethereal": 230 },
+      { "level": 10, "food": 20480, "coins": 0, "max_coins": 0, "ethereal_currency": 24, "max_ethereal": 256 },
+      { "level": 11, "food": 40960, "coins": 0, "max_coins": 0, "ethereal_currency": 26, "max_ethereal": 282 },
+      { "level": 12, "food": 81920, "coins": 0, "max_coins": 0, "ethereal_currency": 29, "max_ethereal": 307 },
+      { "level": 13, "food": 163840, "coins": 0, "max_coins": 0, "ethereal_currency": 31, "max_ethereal": 333 },
+      { "level": 14, "food": 327680, "coins": 0, "max_coins": 0, "ethereal_currency": 34, "max_ethereal": 358 },
+      { "level": 15, "food": 0, "coins": 0, "max_coins": 0, "ethereal_currency": 36, "max_ethereal": 384 }
+    ]
+  },
+  {
+    "monster": 76,
+    "levels": [
+      { "level": 1, "food": 20, "coins": 14, "max_coins": 25000, "ethereal_currency": 2, "max_ethereal": 25 },
+      { "level": 2, "food": 40, "coins": 22, "max_coins": 40000, "ethereal_currency": 3, "max_ethereal": 40 },
+      { "level": 3, "food": 80, "coins": 34, "max_coins": 60000, "ethereal_currency": 5, "max_ethereal": 60 },
+      { "level": 4, "food": 160, "coins": 45, "max_coins": 80000, "ethereal_currency": 6, "max_ethereal": 80 },
+      { "level": 5, "food": 320, "coins": 56, "max_coins": 100000, "ethereal_currency": 8, "max_ethereal": 100 },
+      { "level": 6, "food": 640, "coins": 67, "max_coins": 120000, "ethereal_currency": 10, "max_ethereal": 120 },
+      { "level": 7, "food": 1280, "coins": 78, "max_coins": 140000, "ethereal_currency": 11, "max_ethereal": 140 },
+      { "level": 8, "food": 2560, "coins": 90, "max_coins": 160000, "ethereal_currency": 13, "max_ethereal": 160 },
+      { "level": 9, "food": 5120, "coins": 101, "max_coins": 180000, "ethereal_currency": 14, "max_ethereal": 180 },
+      { "level": 10, "food": 10240, "coins": 112, "max_coins": 200000, "ethereal_currency": 16, "max_ethereal": 200 },
+      { "level": 11, "food": 20480, "coins": 123, "max_coins": 220000, "ethereal_currency": 18, "max_ethereal": 220 },
+      { "level": 12, "food": 40960, "coins": 134, "max_coins": 240000, "ethereal_currency": 19, "max_ethereal": 240 },
+      { "level": 13, "food": 81920, "coins": 146, "max_coins": 260000, "ethereal_currency": 21, "max_ethereal": 260 },
+      { "level": 14, "food": 163840, "coins": 157, "max_coins": 280000, "ethereal_currency": 22, "max_ethereal": 280 },
+      { "level": 15, "food": 0, "coins": 168, "max_coins": 300000, "ethereal_currency": 24, "max_ethereal": 300 }
+    ]
+  },
+  {
+    "monster": 77,
+    "levels": [
+      { "level": 1, "food": 40, "coins": 0, "max_coins": 0, "ethereal_currency": 3, "max_ethereal": 31 },
+      { "level": 2, "food": 80, "coins": 0, "max_coins": 0, "ethereal_currency": 5, "max_ethereal": 50 },
+      { "level": 3, "food": 160, "coins": 0, "max_coins": 0, "ethereal_currency": 7, "max_ethereal": 74 },
+      { "level": 4, "food": 320, "coins": 0, "max_coins": 0, "ethereal_currency": 10, "max_ethereal": 99 },
+      { "level": 5, "food": 640, "coins": 0, "max_coins": 0, "ethereal_currency": 12, "max_ethereal": 124 },
+      { "level": 6, "food": 1280, "coins": 0, "max_coins": 0, "ethereal_currency": 14, "max_ethereal": 149 },
+      { "level": 7, "food": 2560, "coins": 0, "max_coins": 0, "ethereal_currency": 17, "max_ethereal": 174 },
+      { "level": 8, "food": 5120, "coins": 0, "max_coins": 0, "ethereal_currency": 19, "max_ethereal": 198 },
+      { "level": 9, "food": 10240, "coins": 0, "max_coins": 0, "ethereal_currency": 22, "max_ethereal": 223 },
+      { "level": 10, "food": 20480, "coins": 0, "max_coins": 0, "ethereal_currency": 24, "max_ethereal": 248 },
+      { "level": 11, "food": 40960, "coins": 0, "max_coins": 0, "ethereal_currency": 26, "max_ethereal": 273 },
+      { "level": 12, "food": 81920, "coins": 0, "max_coins": 0, "ethereal_currency": 29, "max_ethereal": 298 },
+      { "level": 13, "food": 163840, "coins": 0, "max_coins": 0, "ethereal_currency": 31, "max_ethereal": 322 },
+      { "level": 14, "food": 327680, "coins": 0, "max_coins": 0, "ethereal_currency": 34, "max_ethereal": 347 },
+      { "level": 15, "food": 0, "coins": 0, "max_coins": 0, "ethereal_currency": 36, "max_ethereal": 372 }
+    ]
+  },
+  {
+    "monster": 78,
+    "levels": [
+      { "level": 1, "food": 40, "coins": 0, "max_coins": 0, "ethereal_currency": 3, "max_ethereal": 31 },
+      { "level": 2, "food": 80, "coins": 0, "max_coins": 0, "ethereal_currency": 5, "max_ethereal": 50 },
+      { "level": 3, "food": 160, "coins": 0, "max_coins": 0, "ethereal_currency": 7, "max_ethereal": 74 },
+      { "level": 4, "food": 320, "coins": 0, "max_coins": 0, "ethereal_currency": 10, "max_ethereal": 99 },
+      { "level": 5, "food": 640, "coins": 0, "max_coins": 0, "ethereal_currency": 12, "max_ethereal": 124 },
+      { "level": 6, "food": 1280, "coins": 0, "max_coins": 0, "ethereal_currency": 14, "max_ethereal": 149 },
+      { "level": 7, "food": 2560, "coins": 0, "max_coins": 0, "ethereal_currency": 17, "max_ethereal": 174 },
+      { "level": 8, "food": 5120, "coins": 0, "max_coins": 0, "ethereal_currency": 19, "max_ethereal": 198 },
+      { "level": 9, "food": 10240, "coins": 0, "max_coins": 0, "ethereal_currency": 22, "max_ethereal": 223 },
+      { "level": 10, "food": 20480, "coins": 0, "max_coins": 0, "ethereal_currency": 24, "max_ethereal": 248 },
+      { "level": 11, "food": 40960, "coins": 0, "max_coins": 0, "ethereal_currency": 26, "max_ethereal": 273 },
+      { "level": 12, "food": 81920, "coins": 0, "max_coins": 0, "ethereal_currency": 29, "max_ethereal": 298 },
+      { "level": 13, "food": 163840, "coins": 0, "max_coins": 0, "ethereal_currency": 31, "max_ethereal": 322 },
+      { "level": 14, "food": 327680, "coins": 0, "max_coins": 0, "ethereal_currency": 34, "max_ethereal": 347 },
+      { "level": 15, "food": 0, "coins": 0, "max_coins": 0, "ethereal_currency": 36, "max_ethereal": 372 }
+    ]
+  },
+  {
+    "monster": 79,
+    "levels": [
+      { "level": 1, "food": 10, "coins": 7, "max_coins": 2856, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 20, "coins": 11, "max_coins": 4570, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 40, "coins": 17, "max_coins": 6854, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 80, "coins": 22, "max_coins": 9139, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 160, "coins": 28, "max_coins": 11424, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 320, "coins": 34, "max_coins": 13709, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 640, "coins": 39, "max_coins": 15994, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 1280, "coins": 45, "max_coins": 18278, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 2560, "coins": 50, "max_coins": 20563, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 5120, "coins": 56, "max_coins": 22848, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 10240, "coins": 62, "max_coins": 25133, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 20480, "coins": 67, "max_coins": 27418, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 40960, "coins": 73, "max_coins": 29702, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 81920, "coins": 78, "max_coins": 31987, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 163840, "coins": 84, "max_coins": 34272, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 80,
+    "levels": [
+      { "level": 1, "food": 10, "coins": 7, "max_coins": 2856, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 2, "food": 20, "coins": 11, "max_coins": 4570, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 3, "food": 40, "coins": 17, "max_coins": 6854, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 4, "food": 80, "coins": 22, "max_coins": 9139, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 5, "food": 160, "coins": 28, "max_coins": 11424, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 6, "food": 320, "coins": 34, "max_coins": 13709, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 7, "food": 640, "coins": 39, "max_coins": 15994, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 8, "food": 1280, "coins": 45, "max_coins": 18278, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 9, "food": 2560, "coins": 50, "max_coins": 20563, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 10, "food": 5120, "coins": 56, "max_coins": 22848, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 11, "food": 10240, "coins": 62, "max_coins": 25133, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 12, "food": 20480, "coins": 67, "max_coins": 27418, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 13, "food": 40960, "coins": 73, "max_coins": 29702, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 14, "food": 81920, "coins": 78, "max_coins": 31987, "ethereal_currency": 0, "max_ethereal": 0 },
+      { "level": 15, "food": 163840, "coins": 84, "max_coins": 34272, "ethereal_currency": 0, "max_ethereal": 0 }
+    ]
+  },
+  {
+    "monster": 81,
+    "levels": [
+      { "level": 1, "food": 40, "coins": 0, "max_coins": 0, "ethereal_currency": 3, "max_ethereal": 32 },
+      { "level": 2, "food": 80, "coins": 0, "max_coins": 0, "ethereal_currency": 5, "max_ethereal": 51 },
+      { "level": 3, "food": 160, "coins": 0, "max_coins": 0, "ethereal_currency": 7, "max_ethereal": 77 },
+      { "level": 4, "food": 320, "coins": 0, "max_coins": 0, "ethereal_currency": 10, "max_ethereal": 102 },
+      { "level": 5, "food": 640, "coins": 0, "max_coins": 0, "ethereal_currency": 12, "max_ethereal": 128 },
+      { "level": 6, "food": 1280, "coins": 0, "max_coins": 0, "ethereal_currency": 14, "max_ethereal": 154 },
+      { "level": 7, "food": 2560, "coins": 0, "max_coins": 0, "ethereal_currency": 17, "max_ethereal": 179 },
+      { "level": 8, "food": 5120, "coins": 0, "max_coins": 0, "ethereal_currency": 19, "max_ethereal": 205 },
+      { "level": 9, "food": 10240, "coins": 0, "max_coins": 0, "ethereal_currency": 22, "max_ethereal": 230 },
+      { "level": 10, "food": 20480, "coins": 0, "max_coins": 0, "ethereal_currency": 24, "max_ethereal": 256 },
+      { "level": 11, "food": 40960, "coins": 0, "max_coins": 0, "ethereal_currency": 26, "max_ethereal": 282 },
+      { "level": 12, "food": 81920, "coins": 0, "max_coins": 0, "ethereal_currency": 29, "max_ethereal": 307 },
+      { "level": 13, "food": 163840, "coins": 0, "max_coins": 0, "ethereal_currency": 31, "max_ethereal": 333 },
+      { "level": 14, "food": 327680, "coins": 0, "max_coins": 0, "ethereal_currency": 34, "max_ethereal": 358 },
+      { "level": 15, "food": 0, "coins": 0, "max_coins": 0, "ethereal_currency": 36, "max_ethereal": 384 }
+    ]
+  },
+  {
+    "monster": 82,
+    "levels": [
+      { "level": 1, "food": 40, "coins": 0, "max_coins": 0, "ethereal_currency": 3, "max_ethereal": 32 },
+      { "level": 2, "food": 80, "coins": 0, "max_coins": 0, "ethereal_currency": 5, "max_ethereal": 51 },
+      { "level": 3, "food": 160, "coins": 0, "max_coins": 0, "ethereal_currency": 7, "max_ethereal": 77 },
+      { "level": 4, "food": 320, "coins": 0, "max_coins": 0, "ethereal_currency": 10, "max_ethereal": 102 },
+      { "level": 5, "food": 640, "coins": 0, "max_coins": 0, "ethereal_currency": 12, "max_ethereal": 128 },
+      { "level": 6, "food": 1280, "coins": 0, "max_coins": 0, "ethereal_currency": 14, "max_ethereal": 154 },
+      { "level": 7, "food": 2560, "coins": 0, "max_coins": 0, "ethereal_currency": 17, "max_ethereal": 179 },
+      { "level": 8, "food": 5120, "coins": 0, "max_coins": 0, "ethereal_currency": 19, "max_ethereal": 205 },
+      { "level": 9, "food": 10240, "coins": 0, "max_coins": 0, "ethereal_currency": 22, "max_ethereal": 230 },
+      { "level": 10, "food": 20480, "coins": 0, "max_coins": 0, "ethereal_currency": 24, "max_ethereal": 256 },
+      { "level": 11, "food": 40960, "coins": 0, "max_coins": 0, "ethereal_currency": 26, "max_ethereal": 282 },
+      { "level": 12, "food": 81920, "coins": 0, "max_coins": 0, "ethereal_currency": 29, "max_ethereal": 307 },
+      { "level": 13, "food": 163840, "coins": 0, "max_coins": 0, "ethereal_currency": 31, "max_ethereal": 333 },
+      { "level": 14, "food": 327680, "coins": 0, "max_coins": 0, "ethereal_currency": 34, "max_ethereal": 358 },
+      { "level": 15, "food": 0, "coins": 0, "max_coins": 0, "ethereal_currency": 36, "max_ethereal": 384 }
+    ]
+  },
+  {
+    "monster": 83,
+    "levels": [
+      { "level": 1, "food": 40, "coins": 0, "max_coins": 0, "ethereal_currency": 3, "max_ethereal": 32 },
+      { "level": 2, "food": 80, "coins": 0, "max_coins": 0, "ethereal_currency": 5, "max_ethereal": 51 },
+      { "level": 3, "food": 160, "coins": 0, "max_coins": 0, "ethereal_currency": 7, "max_ethereal": 77 },
+      { "level": 4, "food": 320, "coins": 0, "max_coins": 0, "ethereal_currency": 10, "max_ethereal": 102 },
+      { "level": 5, "food": 640, "coins": 0, "max_coins": 0, "ethereal_currency": 12, "max_ethereal": 128 },
+      { "level": 6, "food": 1280, "coins": 0, "max_coins": 0, "ethereal_currency": 14, "max_ethereal": 154 },
+      { "level": 7, "food": 2560, "coins": 0, "max_coins": 0, "ethereal_currency": 17, "max_ethereal": 179 },
+      { "level": 8, "food": 5120, "coins": 0, "max_coins": 0, "ethereal_currency": 19, "max_ethereal": 205 },
+      { "level": 9, "food": 10240, "coins": 0, "max_coins": 0, "ethereal_currency": 22, "max_ethereal": 230 },
+      { "level": 10, "food": 20480, "coins": 0, "max_coins": 0, "ethereal_currency": 24, "max_ethereal": 256 },
+      { "level": 11, "food": 40960, "coins": 0, "max_coins": 0, "ethereal_currency": 26, "max_ethereal": 282 },
+      { "level": 12, "food": 81920, "coins": 0, "max_coins": 0, "ethereal_currency": 29, "max_ethereal": 307 },
+      { "level": 13, "food": 163840, "coins": 0, "max_coins": 0, "ethereal_currency": 31, "max_ethereal": 333 },
+      { "level": 14, "food": 327680, "coins": 0, "max_coins": 0, "ethereal_currency": 34, "max_ethereal": 358 },
+      { "level": 15, "food": 0, "coins": 0, "max_coins": 0, "ethereal_currency": 36, "max_ethereal": 384 }
+    ]
+  }
+]

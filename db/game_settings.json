@@ -1,0 +1,684 @@
+[
+  { "id": 1, "setting": "AUTO_JOIN", "value": "Limbo", "comment": "" },
+  { "id": 3, "setting": "DEFAULT_NURSERY_ID", "value": "1", "comment": "" },
+  {
+    "id": 4,
+    "setting": "MONSTER_FEEDINGS_PER_LEVEL",
+    "value": "4",
+    "comment": ""
+  },
+  { "id": 5, "setting": "MAX_MONSTER_LEVEL", "value": "15", "comment": "" },
+  {
+    "id": 6,
+    "setting": "MONSTER_HAPPINESS_INCREMENTS",
+    "value": "25",
+    "comment": ""
+  },
+  { "id": 32, "setting": "MAX_PLAYER_LEVEL", "value": "30", "comment": "" },
+  { "id": 33, "setting": "MAX_ISLANDS_PER_USER", "value": "8", "comment": "" },
+  {
+    "id": 34,
+    "setting": "USER_SELLING_PERCENTAGE",
+    "value": "0.75",
+    "comment": ""
+  },
+  {
+    "id": 35,
+    "setting": "PLAYER_START_COINS",
+    "value": "1200",
+    "comment": ""
+  },
+  {
+    "id": 36,
+    "setting": "PLAYER_START_DIAMONDS",
+    "value": "12",
+    "comment": ""
+  },
+  {
+    "id": 37,
+    "setting": "PLAYER_START_FOOD",
+    "value": "0",
+    "comment": ""
+  },
+  { "id": 38, "setting": "AUTH_GAME_ID", "value": "1", "comment": "" },
+  {
+    "id": 39,
+    "setting": "AUTH_SERVER_URL",
+    "value": "http://monstersstaging.bbbgame.net/",
+    "comment": ""
+  },
+  {
+    "id": 40,
+    "setting": "MIN_CLIENT_VERSION",
+    "value": "1.2.4",
+    "comment": ""
+  },
+  {
+    "id": 41,
+    "setting": "CLIENT_UPGRADE_URLS",
+    "value": "[{\"platform\": \"ios\", \"url\": \"itms://itunes.apple.com/app/my-singing-monsters/id521671873?ls=1&mt=8\"},{\"platform\": \"android\", \"url\":\"https://play.google.com/store/apps/details?id=com.bigbluebubble.singingmonsters.full\"},{\"platform\": \"amazon\",\"url\":\"amzn://apps/android?p=com.bigbluebubble.singingmonsters.amazon\"},{\"platform\": \"samsung\",\"url\":\"samsungapps://ProductDetail/com.bigbluebubble.singingmonsters.samsung\"},{\"platform\": \"wildtang\",\"url\":\"http://m.wildtangent.com/Games/my-singing-monsters-android\"},{\"platform\": \"nook\",\"url\":\"http://www.barnesandnoble.com/w/my-singing-monsters-big-blue-bubble-inc/1115559439?ean=2940147132715\"}]",
+    "comment": ""
+  },
+  { "id": 45, "setting": "RANDOM_VISIT_MAX_DIFF", "value": "3", "comment": "" },
+  {
+    "id": 46,
+    "setting": "RANDOM_VISIT_MIN_DIFF",
+    "value": "-1",
+    "comment": ""
+  },
+  {
+    "id": 47,
+    "setting": "ADS_SHOW_THIRDPARTY_WHEN",
+    "value": "{\"player_level\": 7, \"purchase_total\": 0}",
+    "comment": ""
+  },
+  {
+    "id": 48,
+    "setting": "IN_HOUSE_AD_CACHE_LIMIT",
+    "value": "60",
+    "comment": ""
+  },
+  {
+    "id": 49,
+    "setting": "USER_FB_ACHIEVEMENTS_URL",
+    "value": "http://www.bbbarcade.com/mysingingmonsters/msm_facebook/admin/post_achievement.php",
+    "comment": ""
+  },
+  {
+    "id": 50,
+    "setting": "USER_FB_MONSTERS_URL",
+    "value": "http://www.bbbarcade.com/mysingingmonsters/msm_facebook/content/monsters/jpg/",
+    "comment": ""
+  },
+  {
+    "id": 51,
+    "setting": "USER_DIAMOND_EXCHANGE_RATE",
+    "value": "50,1000000",
+    "comment": ""
+  },
+  {
+    "id": 52,
+    "setting": "USER_INVITE_REWARD",
+    "value": "5",
+    "comment": ""
+  },
+  {
+    "id": 53,
+    "setting": "USER_FB_CUSTOM_EVENTS_URL",
+    "value": "http://www.mysingingmonsters.com/facebook/actions/",
+    "comment": ""
+  },
+  {
+    "id": 54,
+    "setting": "USER_FB_PLATFORM_REDIRECT_URL",
+    "value": "http://www.bbbarcade.com/mysingingmonsters/msm_facebook/platform_redirect.php",
+    "comment": ""
+  },
+  { "id": 55, "setting": "USER_FB_POST_REWARD", "value": "1", "comment": "" },
+  {
+    "id": 57,
+    "setting": "USER_FB_POST_REWARD_REFRESH",
+    "value": "24",
+    "comment": ""
+  },
+  {
+    "id": 58,
+    "setting": "NEWS_URL",
+    "value": "http://monstersstaging.bbbgame.net/news/my_singing_monsters/index.php",
+    "comment": ""
+  },
+  {
+    "id": 59,
+    "setting": "USER_SCRATCHOFF_PRICE",
+    "value": "2",
+    "comment": ""
+  },
+  {
+    "id": 60,
+    "setting": "SCRATCHOFF_TIME_BETWEEN_FREE_PLAYS",
+    "value": "22",
+    "comment": ""
+  },
+  {
+    "id": 61,
+    "setting": "MEMORY_AUDIO_SAMPLE_NUM",
+    "value": "100",
+    "comment": ""
+  },
+  {
+    "id": 62,
+    "setting": "MEMORY_TONE_DURATION",
+    "value": "2.0",
+    "comment": ""
+  },
+  {
+    "id": 63,
+    "setting": "MEMORY_START_GAME_PAUSE_DURATION",
+    "value": "2.0",
+    "comment": ""
+  },
+  {
+    "id": 64,
+    "setting": "MEMORY_START_SEQ_PAUSE_DURATION",
+    "value": "0.0",
+    "comment": ""
+  },
+  {
+    "id": 65,
+    "setting": "MEMORY_POST_NOTE_PAUSE_DURATION",
+    "value": "0.0",
+    "comment": ""
+  },
+  {
+    "id": 66,
+    "setting": "MEMORY_FAIL_PAUSE_DURATION",
+    "value": "1.0",
+    "comment": ""
+  },
+  {
+    "id": 67,
+    "setting": "MEMORY_SWAP_BEGIN_STEP",
+    "value": "-1",
+    "comment": ""
+  },
+  {
+    "id": 68,
+    "setting": "MEMORY_MONSTER_SWAP_CHANCE",
+    "value": "0.5",
+    "comment": ""
+  },
+  {
+    "id": 69,
+    "setting": "MEMORY_STEP_DURATION_OF_SWAP",
+    "value": "1",
+    "comment": ""
+  },
+  {
+    "id": 70,
+    "setting": "MEMORY_SWAP_ANIM_SPEED",
+    "value": "5000.0",
+    "comment": ""
+  },
+  {
+    "id": 71,
+    "setting": "MEMORY_TIER1_RESPONSE_LVL",
+    "value": "5",
+    "comment": ""
+  },
+  {
+    "id": 72,
+    "setting": "MEMORY_TIER2_RESPONSE_LVL",
+    "value": "10",
+    "comment": ""
+  },
+  {
+    "id": 73,
+    "setting": "MEMORY_TIER3_RESPONSE_LVL",
+    "value": "20",
+    "comment": ""
+  },
+  {
+    "id": 74,
+    "setting": "MEMORY_TIER4_RESPONSE_LVL",
+    "value": "50",
+    "comment": ""
+  },
+  {
+    "id": 75,
+    "setting": "MEMORY_DIAMOND_PRICE",
+    "value": "2",
+    "comment": ""
+  },
+  { "id": 76, "setting": "MEMORY_COIN_PRICE", "value": "0", "comment": "" },
+  {
+    "id": 77,
+    "setting": "MEMORY_DIAMOND_REWARD",
+    "value": "1",
+    "comment": ""
+  },
+  {
+    "id": 78,
+    "setting": "MEMORY_COIN_REWARD",
+    "value": "25",
+    "comment": ""
+  },
+  {
+    "id": 79,
+    "setting": "MEMORY_TIME_BETWEEN_FREE_PLAYS",
+    "value": "22",
+    "comment": ""
+  },
+  {
+    "id": 81,
+    "setting": "MEMORY_DOUBLE_TAP_BEGIN_STEP",
+    "value": "10",
+    "comment": ""
+  },
+  {
+    "id": 82,
+    "setting": "MEMORY_DOUBLE_TAP_CHANCE",
+    "value": "0.5",
+    "comment": ""
+  },
+  {
+    "id": 83,
+    "setting": "MEMORY_FIXED_TONE_DURATION",
+    "value": "0",
+    "comment": ""
+  },
+  { "id": 84, "setting": "MEMORY_FOOD_REWARD", "value": "50", "comment": "" },
+  {
+    "id": 85,
+    "setting": "MEMORY_COIN_REWARD_FREQ",
+    "value": "1",
+    "comment": ""
+  },
+  {
+    "id": 86,
+    "setting": "MEMORY_FOOD_REWARD_FREQ",
+    "value": "5",
+    "comment": ""
+  },
+  {
+    "id": 87,
+    "setting": "MEMORY_DIAMOND_REWARD_FREQ",
+    "value": "1",
+    "comment": ""
+  },
+  {
+    "id": 88,
+    "setting": "MEMORY_TIME_BEFORE_FAIL",
+    "value": "5.0",
+    "comment": ""
+  },
+  {
+    "id": 90,
+    "setting": "MEMORY_POST_SWAP_PAUSE_DURATION",
+    "value": "0.5",
+    "comment": ""
+  },
+  {
+    "id": 91,
+    "setting": "PLAYER_START_COINS_IOS",
+    "value": "1200",
+    "comment": ""
+  },
+  {
+    "id": 92,
+    "setting": "PLAYER_START_DIAMONDS_IOS",
+    "value": "12",
+    "comment": ""
+  },
+  { "id": 93, "setting": "PLAYER_START_FOOD_IOS", "value": "0", "comment": "" },
+  {
+    "id": 94,
+    "setting": "PLAYER_START_COINS_ANDROID",
+    "value": "1200",
+    "comment": ""
+  },
+  {
+    "id": 95,
+    "setting": "PLAYER_START_DIAMONDS_ANDROID",
+    "value": "12",
+    "comment": ""
+  },
+  {
+    "id": 96,
+    "setting": "PLAYER_START_FOOD_ANDROID",
+    "value": "0",
+    "comment": ""
+  },
+  {
+    "id": 97,
+    "setting": "PLAYER_START_COINS_AMAZON",
+    "value": "1200",
+    "comment": ""
+  },
+  {
+    "id": 98,
+    "setting": "PLAYER_START_DIAMONDS_AMAZON",
+    "value": "12",
+    "comment": ""
+  },
+  {
+    "id": 99,
+    "setting": "PLAYER_START_FOOD_AMAZON",
+    "value": "0",
+    "comment": ""
+  },
+  {
+    "id": 100,
+    "setting": "PLAYER_REFERRAL_REWARD",
+    "value": "5",
+    "comment": ""
+  },
+  {
+    "id": 101,
+    "setting": "USER_MORE_GAMES_IOS",
+    "value": "playhaven",
+    "comment": ""
+  },
+  {
+    "id": 102,
+    "setting": "USER_MORE_GAMES_ANDROID",
+    "value": "playhaven",
+    "comment": ""
+  },
+  {
+    "id": 103,
+    "setting": "USER_MORE_GAMES_AMAZON",
+    "value": "chartboost",
+    "comment": ""
+  },
+  {
+    "id": 104,
+    "setting": "USER_MONSTER_SCRATCHOFF_PRICE",
+    "value": "10",
+    "comment": ""
+  },
+  {
+    "id": 105,
+    "setting": "TOP_ISLAND_DIAMOND_REWARD",
+    "value": "100",
+    "comment": ""
+  },
+  {
+    "id": 106,
+    "setting": "TOP_ISLAND_RANDOM_ISLAND_POOL",
+    "value": "250",
+    "comment": ""
+  },
+  {
+    "id": 107,
+    "setting": "MONSTER_SCRATCHOFF_TIME_BETWEEN_FREE_PLAYS",
+    "value": "166",
+    "comment": ""
+  },
+  {
+    "id": 108,
+    "setting": "BOX_INVENTORY_DIAMOND_PRICE_PER_MONSTER",
+    "value": "30",
+    "comment": ""
+  },
+  {
+    "id": 110,
+    "setting": "GOLD_BOX_INVENTORY_DIAMOND_PRICE_PER_MONSTER",
+    "value": "300",
+    "comment": ""
+  },
+  {
+    "id": 111,
+    "setting": "SESSION_STATS_INTERVAL",
+    "value": "5",
+    "comment": ""
+  },
+  {
+    "id": 112,
+    "setting": "METRIC_QUEUE_URL",
+    "value": "https://sqs.us-east-1.amazonaws.com/465147798657/metrics",
+    "comment": ""
+  },
+  {
+    "id": 113,
+    "setting": "METRIC_TRACKING_URL",
+    "value": "stats/my_singing_monsters/trackEvent.php?devmode=true",
+    "comment": ""
+  },
+  {
+    "id": 114,
+    "setting": "SESSION_STATS_URL",
+    "value": "http://monstersstaging.bbbgame.net/sessions.php",
+    "comment": ""
+  },
+  {
+    "id": 115,
+    "setting": "USER_COIN_ETH_EXCHANGE_RATE",
+    "value": "500000,50",
+    "comment": ""
+  },
+  {
+    "id": 116,
+    "setting": "USER_DIAMOND_ETH_EXCHANGE_RATE",
+    "value": "50,100",
+    "comment": ""
+  },
+  { "id": 117, "setting": "ALARM_BBB_IDS", "value": "1,2", "comment": "" },
+  {
+    "id": 118,
+    "setting": "ETHEREAL_BREEDTIME_MULTIPLIER",
+    "value": "0.277777778",
+    "comment": ""
+  },
+  {
+    "id": 121,
+    "setting": "RARE_MONSTER_IDS",
+    "value": "25,26,27,28,29,30,32,33,34,35,36,37,38,39,49,50,51,52,53,54,55,56,57,58,59,75,76,77,78,79,80",
+    "comment": ""
+  },
+  {
+    "id": 123,
+    "setting": "USER_ETHEREAL_ISLAND_HATCH_XP_MODIFIER",
+    "value": "0.027",
+    "comment": ""
+  },
+  {
+    "id": 124,
+    "setting": "ETHEREAL_CAPACITY_MULTIPLIER",
+    "value": "4.0",
+    "comment": ""
+  },
+  {
+    "id": 125,
+    "setting": "INSTALLATION_ID",
+    "value": "9999",
+    "comment": ""
+  },
+  {
+    "id": 126,
+    "setting": "AWS_SNS_ENDPOINT",
+    "value": "https://sns.us-east-1.amazonaws.com",
+    "comment": ""
+  },
+  {
+    "id": 127,
+    "setting": "METRIC_TOPIC_ARN",
+    "value": "arn:aws:sns:us-east-1:465147798657:metrics_msm",
+    "comment": ""
+  },
+  {
+    "id": 130,
+    "setting": "SERVER_STATS_INTERVAL",
+    "value": "120",
+    "comment": ""
+  },
+  {
+    "id": 131,
+    "setting": "FIRST_TIME_BUYER_LEVEL",
+    "value": "12",
+    "comment": ""
+  },
+  {
+    "id": 132,
+    "setting": "MONSTER_LINKS_RELOAD_INTERVAL",
+    "value": "60",
+    "comment": ""
+  },
+  {
+    "id": 133,
+    "setting": "USER_MAX_NUM_TORCHES_PER_ISLAND",
+    "value": "10",
+    "comment": ""
+  },
+  {
+    "id": 134,
+    "setting": "USER_DIAMOND_COST_PER_LIT_TORCH",
+    "value": "2",
+    "comment": ""
+  },
+  {
+    "id": 135,
+    "setting": "USER_DIAMOND_COST_PER_PERMALIT_TORCH",
+    "value": "100",
+    "comment": ""
+  },
+  {
+    "id": 136,
+    "setting": "DURATION_TORCH_LIGHT_SEC",
+    "value": "86400",
+    "comment": ""
+  },
+  {
+    "id": 137,
+    "setting": "FACEBOOK_HELP_NUM_INSTANCES",
+    "value": "1",
+    "comment": ""
+  },
+  {
+    "id": 138,
+    "setting": "FACEBOOK_HELP_INSTANCE_PERCENT",
+    "value": "0.25",
+    "comment": ""
+  },
+  {
+    "id": 139,
+    "setting": "RARE_PROBABILITY_INCR_PER_TORCH",
+    "value": "1.0",
+    "comment": ""
+  },
+  {
+    "id": 140,
+    "setting": "MAX_TORCH_GIFT_GIVING_FREQUENCY_HOURS",
+    "value": "24",
+    "comment": ""
+  },
+  {
+    "id": 141,
+    "setting": "TAPJOY_PPA_LEVEL",
+    "value": "4",
+    "comment": ""
+  },
+  {
+    "id": 142,
+    "setting": "USER_ADCOLONY_IOS_ENABLED",
+    "value": "1",
+    "comment": ""
+  },
+  {
+    "id": 143,
+    "setting": "USER_ADCOLONY_ANDROID_ENABLED",
+    "value": "1",
+    "comment": ""
+  },
+  {
+    "id": 144,
+    "setting": "ADS_SHOW_THIRDPARTY_VIDEO_WHEN",
+    "value": "{\"player_level\": 10, \"purchase_total\": 0, \"client_version\": \"1.2.3\"}",
+    "comment": ""
+  },
+  {
+    "id": 145,
+    "setting": "USER_ETH_DIAMOND_EXCHANGE_RATE",
+    "value": "30000,1",
+    "comment": ""
+  },
+  {
+    "id": 146,
+    "setting": "SCRATCHOFF_SCALING_FOOD_VAR_A",
+    "value": "0.2",
+    "comment": ""
+  },
+  {
+    "id": 147,
+    "setting": "SCRATCHOFF_SCALING_FOOD_VAR_B",
+    "value": "-0.8",
+    "comment": ""
+  },
+  {
+    "id": 148,
+    "setting": "SCRATCHOFF_SCALING_COIN_VAR_A",
+    "value": "0.9",
+    "comment": ""
+  },
+  {
+    "id": 149,
+    "setting": "SCRATCHOFF_SCALING_COIN_VAR_B",
+    "value": "-7.0",
+    "comment": ""
+  },
+  {
+    "id": 150,
+    "setting": "SCRATCHOFF_SCALING_START_LEVEL",
+    "value": "10",
+    "comment": ""
+  },
+  { "id": 151, "setting": "USE_AUTH_DB", "value": "true", "comment": "" },
+  {
+    "id": 152,
+    "setting": "AUTH_DB_CONNECTION_STRING",
+    "value": "jdbc:mysql://main.chnpmxzbzvgm.us-east-1.rds.amazonaws.com:3306/BBB_auth",
+    "comment": ""
+  },
+  {
+    "id": 153,
+    "setting": "AUTH_DB_PASSWORD",
+    "value": "!#Auth8723F",
+    "comment": ""
+  },
+  {
+    "id": 154,
+    "setting": "AUTH_DB_USERNAME",
+    "value": "authserver",
+    "comment": ""
+  },
+  { "id": 155, "setting": "AUTH_SECRET", "value": "3GJF37I3ZP", "comment": "" },
+  {
+    "id": 156,
+    "setting": "AUTH_SERVER_STATS_INTERVAL",
+    "value": "30",
+    "comment": ""
+  },
+  {
+    "id": 157,
+    "setting": "ALARM_PASSWORD",
+    "value": "$2y$10$5c4N6cSxMV/z4WvaRzJa4.9eWV.vAkKLQkCpafptaMxOgxqBKyBui",
+    "comment": ""
+  },
+  {
+    "id": 158,
+    "setting": "TAPJOY_IOS_PPA_APP_ID",
+    "value": "ccd4788d-9326-4396-b820-6cbb085b18d7",
+    "comment": ""
+  },
+  {
+    "id": 159,
+    "setting": "TAPJOY_ANDROID_PPA_APP_ID",
+    "value": "77dff0d9-d310-43c2-9e35-a494d48d1bd7",
+    "comment": ""
+  },
+  {
+    "id": 160,
+    "setting": "TAPJOY_PPA_ENABLED",
+    "value": "true",
+    "comment": ""
+  },
+  { "id": 161, "setting": "FRIEND_MAX_LOAD", "value": "1000", "comment": "" },
+  {
+    "id": 162,
+    "setting": "INHOUSE_ADS_RELOAD_INTERVAL",
+    "value": "60",
+    "comment": ""
+  },
+  {
+    "id": 163,
+    "setting": "SESSION_LENGTH_STATS_ENABLED",
+    "value": "true",
+    "comment": ""
+  },
+  { "id": 164, "setting": "COMPRESS_ISLAND_DATA", "value": "1", "comment": "" },
+  {
+    "id": 165,
+    "setting": "MIN_CONNECTING_VERSION",
+    "value": "1.2.0",
+    "comment": ""
+  }
+]

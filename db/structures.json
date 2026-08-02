@@ -1,0 +1,1874 @@
+[
+  {
+    "structure_id": 1,
+    "structure_type": "nursery",
+    "entity": 1,
+    "upgrades_to": 0,
+    "extra": "{\"beds\": 1}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 2,
+    "structure_type": "breeding",
+    "entity": 2,
+    "upgrades_to": 0,
+    "extra": "{\"beds\": 1}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 6,
+    "structure_type": "mine",
+    "entity": 6,
+    "upgrades_to": 0,
+    "extra": "{\"time\": 720, \"diamonds\": 2}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 7,
+    "structure_type": "castle",
+    "entity": 7,
+    "upgrades_to": 8,
+    "extra": "{\"beds\": 4}",
+    "sound": "",
+    "limit_to_island": 1
+  },
+  {
+    "structure_id": 8,
+    "structure_type": "castle",
+    "entity": 8,
+    "upgrades_to": 9,
+    "extra": "{\"beds\": 10}",
+    "sound": "",
+    "limit_to_island": 1
+  },
+  {
+    "structure_id": 9,
+    "structure_type": "castle",
+    "entity": 9,
+    "upgrades_to": 10,
+    "extra": "{\"beds\": 18}",
+    "sound": "",
+    "limit_to_island": 1
+  },
+  {
+    "structure_id": 10,
+    "structure_type": "castle",
+    "entity": 10,
+    "upgrades_to": 11,
+    "extra": "{\"beds\": 28}",
+    "sound": "",
+    "limit_to_island": 1
+  },
+  {
+    "structure_id": 11,
+    "structure_type": "castle",
+    "entity": 11,
+    "upgrades_to": 138,
+    "extra": "{\"beds\": 40}",
+    "sound": "",
+    "limit_to_island": 1
+  },
+  {
+    "structure_id": 12,
+    "structure_type": "castle",
+    "entity": 12,
+    "upgrades_to": 13,
+    "extra": "{\"beds\": 4}",
+    "sound": "",
+    "limit_to_island": 2
+  },
+  {
+    "structure_id": 13,
+    "structure_type": "castle",
+    "entity": 13,
+    "upgrades_to": 14,
+    "extra": "{\"beds\": 10}",
+    "sound": "",
+    "limit_to_island": 2
+  },
+  {
+    "structure_id": 14,
+    "structure_type": "castle",
+    "entity": 14,
+    "upgrades_to": 15,
+    "extra": "{\"beds\": 18}",
+    "sound": "",
+    "limit_to_island": 2
+  },
+  {
+    "structure_id": 15,
+    "structure_type": "castle",
+    "entity": 15,
+    "upgrades_to": 16,
+    "extra": "{\"beds\": 28}",
+    "sound": "",
+    "limit_to_island": 2
+  },
+  {
+    "structure_id": 16,
+    "structure_type": "castle",
+    "entity": 16,
+    "upgrades_to": 139,
+    "extra": "{\"beds\": 40}",
+    "sound": "",
+    "limit_to_island": 2
+  },
+  {
+    "structure_id": 17,
+    "structure_type": "castle",
+    "entity": 17,
+    "upgrades_to": 18,
+    "extra": "{\"beds\": 4}",
+    "sound": "",
+    "limit_to_island": 3
+  },
+  {
+    "structure_id": 18,
+    "structure_type": "castle",
+    "entity": 18,
+    "upgrades_to": 19,
+    "extra": "{\"beds\": 10}",
+    "sound": "",
+    "limit_to_island": 3
+  },
+  {
+    "structure_id": 19,
+    "structure_type": "castle",
+    "entity": 19,
+    "upgrades_to": 20,
+    "extra": "{\"beds\": 18}",
+    "sound": "",
+    "limit_to_island": 3
+  },
+  {
+    "structure_id": 20,
+    "structure_type": "castle",
+    "entity": 20,
+    "upgrades_to": 21,
+    "extra": "{\"beds\": 28}",
+    "sound": "",
+    "limit_to_island": 3
+  },
+  {
+    "structure_id": 21,
+    "structure_type": "castle",
+    "entity": 21,
+    "upgrades_to": 140,
+    "extra": "{\"beds\": 40}",
+    "sound": "",
+    "limit_to_island": 3
+  },
+  {
+    "structure_id": 22,
+    "structure_type": "castle",
+    "entity": 22,
+    "upgrades_to": 23,
+    "extra": "{\"beds\": 4}",
+    "sound": "",
+    "limit_to_island": 4
+  },
+  {
+    "structure_id": 23,
+    "structure_type": "castle",
+    "entity": 23,
+    "upgrades_to": 24,
+    "extra": "{\"beds\": 10}",
+    "sound": "",
+    "limit_to_island": 4
+  },
+  {
+    "structure_id": 24,
+    "structure_type": "castle",
+    "entity": 24,
+    "upgrades_to": 25,
+    "extra": "{\"beds\": 18}",
+    "sound": "",
+    "limit_to_island": 4
+  },
+  {
+    "structure_id": 25,
+    "structure_type": "castle",
+    "entity": 25,
+    "upgrades_to": 26,
+    "extra": "{\"beds\": 28}",
+    "sound": "",
+    "limit_to_island": 4
+  },
+  {
+    "structure_id": 26,
+    "structure_type": "castle",
+    "entity": 26,
+    "upgrades_to": 141,
+    "extra": "{\"beds\": 40}",
+    "sound": "",
+    "limit_to_island": 4
+  },
+  {
+    "structure_id": 27,
+    "structure_type": "castle",
+    "entity": 27,
+    "upgrades_to": 28,
+    "extra": "{\"beds\": 4}",
+    "sound": "",
+    "limit_to_island": 5
+  },
+  {
+    "structure_id": 28,
+    "structure_type": "castle",
+    "entity": 28,
+    "upgrades_to": 29,
+    "extra": "{\"beds\": 10}",
+    "sound": "",
+    "limit_to_island": 5
+  },
+  {
+    "structure_id": 29,
+    "structure_type": "castle",
+    "entity": 29,
+    "upgrades_to": 30,
+    "extra": "{\"beds\": 18}",
+    "sound": "",
+    "limit_to_island": 5
+  },
+  {
+    "structure_id": 30,
+    "structure_type": "castle",
+    "entity": 30,
+    "upgrades_to": 31,
+    "extra": "{\"beds\": 28}",
+    "sound": "",
+    "limit_to_island": 5
+  },
+  {
+    "structure_id": 31,
+    "structure_type": "castle",
+    "entity": 31,
+    "upgrades_to": 142,
+    "extra": "{\"beds\": 40}",
+    "sound": "",
+    "limit_to_island": 5
+  },
+  {
+    "structure_id": 32,
+    "structure_type": "bakery",
+    "entity": 32,
+    "upgrades_to": 33,
+    "extra": "{\"food_options\":[{\"food\": 5, \"cost\": 50, \"time\": 30, \"xp\": 25, \"label\": \"BAKING_CUPCAKES\"},{\"food\": 25, \"cost\": 250, \"time\": 300, \"xp\": 125, \"label\": \"BAKING_COOKIES\"},{\"food\": 100, \"cost\": 1000,\"time\": 1800, \"xp\": 500, \"label\": \"BAKING_BREAD\"}], \"food_x\":0, \"food_y\":-30,  \"food_flip_x\":0, \"food_flip_y\":-30}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 33,
+    "structure_type": "bakery",
+    "entity": 33,
+    "upgrades_to": 34,
+    "extra": "{\"food_options\":[{\"food\": 5, \"cost\": 50, \"time\": 30, \"xp\": 25, \"label\": \"BAKING_CUPCAKES\"},{\"food\": 25, \"cost\": 250, \"time\": 300, \"xp\": 125, \"label\": \"BAKING_COOKIES\"},{\"food\": 100, \"cost\": 1000,\"time\": 1800, \"xp\": 500, \"label\": \"BAKING_BREAD\"},{\"food\": 500, \"cost\": 5000, \"time\": 3600, \"xp\": 2500, \"label\": \"BAKING_DONUTS\"},{\"food\": 1500, \"cost\": 15000, \"time\": 10800, \"xp\": 7500, \"label\": \"BAKING_ICE_CREAM\"},{\"food\": 7500, \"cost\": 75000, \"time\" : 21600, \"xp\": 37500, \"label\": \"BAKING_PIZZA\"}], \"food_x\":3, \"food_y\":-30,  \"food_flip_x\":-3, \"food_flip_y\":-30}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 34,
+    "structure_type": "bakery",
+    "entity": 34,
+    "upgrades_to": 0,
+    "extra": "{\"food_options\":[{\"food\": 5, \"cost\": 50, \"time\": 30, \"xp\": 25, \"label\": \"BAKING_CUPCAKES\"},{\"food\": 25, \"cost\": 250, \"time\": 300, \"xp\": 125, \"label\": \"BAKING_COOKIES\"},{\"food\": 100, \"cost\": 1000,\"time\": 1800, \"xp\": 500, \"label\": \"BAKING_BREAD\"},{\"food\": 500, \"cost\": 5000, \"time\": 3600, \"xp\": 2500, \"label\": \"BAKING_DONUTS\"},{\"food\": 1500, \"cost\": 15000, \"time\": 10800, \"xp\": 7500, \"label\": \"BAKING_ICE_CREAM\"},{\"food\": 7500, \"cost\": 75000, \"time\" : 21600, \"xp\": 37500, \"label\": \"BAKING_PIZZA\"},{\"food\": 50000, \"cost\": 500000, \"time\" : 43200, \"xp\": 250000, \"label\": \"BAKING_PIE\"},{\"food\": 100000, \"cost\": 1000000, \"time\" : 86400, \"xp\": 500000, \"label\": \"BAKING_TURKEY\"},{\"food\": 500000, \"cost\": 5000000, \"time\" : 172800, \"xp\": 2500000, \"label\": \"BAKING_CAKE\"}], \"food_x\":5, \"food_y\":-40,  \"food_flip_x\":-5, \"food_flip_y\":-40}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 64,
+    "structure_type": "decoration",
+    "entity": 95,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 65,
+    "structure_type": "decoration",
+    "entity": 96,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 66,
+    "structure_type": "decoration",
+    "entity": 97,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 67,
+    "structure_type": "decoration",
+    "entity": 98,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 68,
+    "structure_type": "decoration",
+    "entity": 100,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "fence01.wav",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 69,
+    "structure_type": "decoration",
+    "entity": 101,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 70,
+    "structure_type": "decoration",
+    "entity": 102,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 71,
+    "structure_type": "decoration",
+    "entity": 103,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 72,
+    "structure_type": "decoration",
+    "entity": 104,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 73,
+    "structure_type": "decoration",
+    "entity": 105,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 74,
+    "structure_type": "decoration",
+    "entity": 106,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 75,
+    "structure_type": "decoration",
+    "entity": 107,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "lamppost01.wav",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 76,
+    "structure_type": "decoration",
+    "entity": 108,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "lamppost02.wav",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 77,
+    "structure_type": "decoration",
+    "entity": 109,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 78,
+    "structure_type": "decoration",
+    "entity": 110,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 79,
+    "structure_type": "decoration",
+    "entity": 111,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 80,
+    "structure_type": "decoration",
+    "entity": 112,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "musictree01.wav",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 81,
+    "structure_type": "decoration",
+    "entity": 113,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "musictree02.wav",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 82,
+    "structure_type": "decoration",
+    "entity": 114,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 83,
+    "structure_type": "decoration",
+    "entity": 115,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 84,
+    "structure_type": "decoration",
+    "entity": 116,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 85,
+    "structure_type": "decoration",
+    "entity": 117,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 86,
+    "structure_type": "decoration",
+    "entity": 118,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 87,
+    "structure_type": "decoration",
+    "entity": 119,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 88,
+    "structure_type": "decoration",
+    "entity": 120,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 89,
+    "structure_type": "decoration",
+    "entity": 121,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 90,
+    "structure_type": "decoration",
+    "entity": 122,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 91,
+    "structure_type": "decoration",
+    "entity": 123,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 93,
+    "structure_type": "decoration",
+    "entity": 125,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 94,
+    "structure_type": "decoration",
+    "entity": 126,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 95,
+    "structure_type": "decoration",
+    "entity": 127,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 96,
+    "structure_type": "decoration",
+    "entity": 128,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 97,
+    "structure_type": "decoration",
+    "entity": 129,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 98,
+    "structure_type": "decoration",
+    "entity": 130,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 99,
+    "structure_type": "decoration",
+    "entity": 131,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 100,
+    "structure_type": "decoration",
+    "entity": 132,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 101,
+    "structure_type": "decoration",
+    "entity": 133,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 102,
+    "structure_type": "decoration",
+    "entity": 134,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 103,
+    "structure_type": "decoration",
+    "entity": 135,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 104,
+    "structure_type": "decoration",
+    "entity": 136,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 105,
+    "structure_type": "decoration",
+    "entity": 137,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 106,
+    "structure_type": "obstacle",
+    "entity": 138,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 107,
+    "structure_type": "obstacle",
+    "entity": 139,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 108,
+    "structure_type": "obstacle",
+    "entity": 140,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 109,
+    "structure_type": "obstacle",
+    "entity": 141,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 110,
+    "structure_type": "obstacle",
+    "entity": 142,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 111,
+    "structure_type": "obstacle",
+    "entity": 143,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 112,
+    "structure_type": "obstacle",
+    "entity": 169,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 113,
+    "structure_type": "obstacle",
+    "entity": 170,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 114,
+    "structure_type": "obstacle",
+    "entity": 171,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 115,
+    "structure_type": "obstacle",
+    "entity": 172,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 116,
+    "structure_type": "obstacle",
+    "entity": 173,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 117,
+    "structure_type": "obstacle",
+    "entity": 174,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 118,
+    "structure_type": "obstacle",
+    "entity": 175,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 119,
+    "structure_type": "obstacle",
+    "entity": 176,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 120,
+    "structure_type": "obstacle",
+    "entity": 177,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 121,
+    "structure_type": "obstacle",
+    "entity": 178,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 122,
+    "structure_type": "obstacle",
+    "entity": 179,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 123,
+    "structure_type": "obstacle",
+    "entity": 180,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 124,
+    "structure_type": "time_machine",
+    "entity": 181,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 125,
+    "structure_type": "obstacle",
+    "entity": 182,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 126,
+    "structure_type": "obstacle",
+    "entity": 183,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 127,
+    "structure_type": "obstacle",
+    "entity": 184,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 128,
+    "structure_type": "obstacle",
+    "entity": 185,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 129,
+    "structure_type": "obstacle",
+    "entity": 186,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 130,
+    "structure_type": "obstacle",
+    "entity": 187,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 131,
+    "structure_type": "obstacle",
+    "entity": 189,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 132,
+    "structure_type": "obstacle",
+    "entity": 190,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 133,
+    "structure_type": "obstacle",
+    "entity": 191,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 134,
+    "structure_type": "obstacle",
+    "entity": 192,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 135,
+    "structure_type": "obstacle",
+    "entity": 193,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 136,
+    "structure_type": "obstacle",
+    "entity": 194,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 137,
+    "structure_type": "castle",
+    "entity": 195,
+    "upgrades_to": 0,
+    "extra": "{\"beds\": 500}",
+    "sound": "",
+    "limit_to_island": 6
+  },
+  {
+    "structure_id": 138,
+    "structure_type": "castle",
+    "entity": 196,
+    "upgrades_to": 237,
+    "extra": "{\"beds\": 60}",
+    "sound": "",
+    "limit_to_island": 1
+  },
+  {
+    "structure_id": 139,
+    "structure_type": "castle",
+    "entity": 197,
+    "upgrades_to": 238,
+    "extra": "{\"beds\": 60}",
+    "sound": "",
+    "limit_to_island": 2
+  },
+  {
+    "structure_id": 140,
+    "structure_type": "castle",
+    "entity": 198,
+    "upgrades_to": 239,
+    "extra": "{\"beds\": 60}",
+    "sound": "",
+    "limit_to_island": 3
+  },
+  {
+    "structure_id": 141,
+    "structure_type": "castle",
+    "entity": 199,
+    "upgrades_to": 240,
+    "extra": "{\"beds\": 60}",
+    "sound": "",
+    "limit_to_island": 4
+  },
+  {
+    "structure_id": 142,
+    "structure_type": "castle",
+    "entity": 200,
+    "upgrades_to": 241,
+    "extra": "{\"beds\": 60}",
+    "sound": "",
+    "limit_to_island": 5
+  },
+  {
+    "structure_id": 143,
+    "structure_type": "decoration",
+    "entity": 202,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 1
+  },
+  {
+    "structure_id": 144,
+    "structure_type": "decoration",
+    "entity": 203,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 1
+  },
+  {
+    "structure_id": 145,
+    "structure_type": "decoration",
+    "entity": 204,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 1
+  },
+  {
+    "structure_id": 146,
+    "structure_type": "decoration",
+    "entity": 205,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 1
+  },
+  {
+    "structure_id": 147,
+    "structure_type": "decoration",
+    "entity": 206,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 1
+  },
+  {
+    "structure_id": 148,
+    "structure_type": "decoration",
+    "entity": 207,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 1
+  },
+  {
+    "structure_id": 149,
+    "structure_type": "decoration",
+    "entity": 208,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 1
+  },
+  {
+    "structure_id": 150,
+    "structure_type": "decoration",
+    "entity": 209,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 1
+  },
+  {
+    "structure_id": 151,
+    "structure_type": "decoration",
+    "entity": 210,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 1
+  },
+  {
+    "structure_id": 152,
+    "structure_type": "decoration",
+    "entity": 211,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 2
+  },
+  {
+    "structure_id": 153,
+    "structure_type": "decoration",
+    "entity": 212,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 2
+  },
+  {
+    "structure_id": 154,
+    "structure_type": "decoration",
+    "entity": 213,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 2
+  },
+  {
+    "structure_id": 155,
+    "structure_type": "decoration",
+    "entity": 214,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 2
+  },
+  {
+    "structure_id": 156,
+    "structure_type": "decoration",
+    "entity": 215,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 2
+  },
+  {
+    "structure_id": 157,
+    "structure_type": "decoration",
+    "entity": 216,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 2
+  },
+  {
+    "structure_id": 158,
+    "structure_type": "decoration",
+    "entity": 217,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 2
+  },
+  {
+    "structure_id": 159,
+    "structure_type": "decoration",
+    "entity": 218,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 3
+  },
+  {
+    "structure_id": 160,
+    "structure_type": "decoration",
+    "entity": 219,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 3
+  },
+  {
+    "structure_id": 161,
+    "structure_type": "decoration",
+    "entity": 220,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 3
+  },
+  {
+    "structure_id": 162,
+    "structure_type": "decoration",
+    "entity": 221,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 3
+  },
+  {
+    "structure_id": 163,
+    "structure_type": "decoration",
+    "entity": 222,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 3
+  },
+  {
+    "structure_id": 164,
+    "structure_type": "decoration",
+    "entity": 223,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 3
+  },
+  {
+    "structure_id": 165,
+    "structure_type": "decoration",
+    "entity": 224,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 3
+  },
+  {
+    "structure_id": 166,
+    "structure_type": "decoration",
+    "entity": 225,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 4
+  },
+  {
+    "structure_id": 167,
+    "structure_type": "decoration",
+    "entity": 226,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 4
+  },
+  {
+    "structure_id": 168,
+    "structure_type": "decoration",
+    "entity": 227,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 4
+  },
+  {
+    "structure_id": 169,
+    "structure_type": "decoration",
+    "entity": 228,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 4
+  },
+  {
+    "structure_id": 170,
+    "structure_type": "decoration",
+    "entity": 229,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 4
+  },
+  {
+    "structure_id": 171,
+    "structure_type": "decoration",
+    "entity": 230,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 4
+  },
+  {
+    "structure_id": 172,
+    "structure_type": "decoration",
+    "entity": 231,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 4
+  },
+  {
+    "structure_id": 173,
+    "structure_type": "decoration",
+    "entity": 232,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 5
+  },
+  {
+    "structure_id": 174,
+    "structure_type": "decoration",
+    "entity": 233,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 5
+  },
+  {
+    "structure_id": 175,
+    "structure_type": "decoration",
+    "entity": 234,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 5
+  },
+  {
+    "structure_id": 176,
+    "structure_type": "decoration",
+    "entity": 235,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 5
+  },
+  {
+    "structure_id": 177,
+    "structure_type": "decoration",
+    "entity": 236,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 5
+  },
+  {
+    "structure_id": 178,
+    "structure_type": "decoration",
+    "entity": 237,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 5
+  },
+  {
+    "structure_id": 179,
+    "structure_type": "decoration",
+    "entity": 238,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 5
+  },
+  {
+    "structure_id": 180,
+    "structure_type": "decoration",
+    "entity": 239,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 5
+  },
+  {
+    "structure_id": 181,
+    "structure_type": "decoration",
+    "entity": 240,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 182,
+    "structure_type": "decoration",
+    "entity": 241,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 183,
+    "structure_type": "decoration",
+    "entity": 242,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 185,
+    "structure_type": "happiness_tree",
+    "entity": 244,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 186,
+    "structure_type": "mine",
+    "entity": 249,
+    "upgrades_to": 0,
+    "extra": "{\"time\": 1440, \"diamonds\": 1}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 188,
+    "structure_type": "warehouse",
+    "entity": 275,
+    "upgrades_to": 189,
+    "extra": "{\"capacity\":10}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 189,
+    "structure_type": "warehouse",
+    "entity": 276,
+    "upgrades_to": 190,
+    "extra": "{\"capacity\":25}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 190,
+    "structure_type": "warehouse",
+    "entity": 277,
+    "upgrades_to": 0,
+    "extra": "{\"capacity\":50}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 191,
+    "structure_type": "hotel",
+    "entity": 278,
+    "upgrades_to": 192,
+    "extra": "{\"capacity\":10}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 192,
+    "structure_type": "hotel",
+    "entity": 279,
+    "upgrades_to": 193,
+    "extra": "{\"capacity\":20}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 193,
+    "structure_type": "hotel",
+    "entity": 280,
+    "upgrades_to": 0,
+    "extra": "{\"capacity\":30}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 194,
+    "structure_type": "obstacle",
+    "entity": 282,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 195,
+    "structure_type": "obstacle",
+    "entity": 283,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 196,
+    "structure_type": "obstacle",
+    "entity": 284,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 197,
+    "structure_type": "obstacle",
+    "entity": 285,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 198,
+    "structure_type": "obstacle",
+    "entity": 286,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 199,
+    "structure_type": "obstacle",
+    "entity": 287,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 200,
+    "structure_type": "castle",
+    "entity": 292,
+    "upgrades_to": 201,
+    "extra": "{\"beds\": 20}",
+    "sound": "",
+    "limit_to_island": 7
+  },
+  {
+    "structure_id": 201,
+    "structure_type": "castle",
+    "entity": 293,
+    "upgrades_to": 202,
+    "extra": "{\"beds\": 45}",
+    "sound": "",
+    "limit_to_island": 7
+  },
+  {
+    "structure_id": 202,
+    "structure_type": "castle",
+    "entity": 294,
+    "upgrades_to": 203,
+    "extra": "{\"beds\": 80}",
+    "sound": "",
+    "limit_to_island": 7
+  },
+  {
+    "structure_id": 203,
+    "structure_type": "castle",
+    "entity": 295,
+    "upgrades_to": 204,
+    "extra": "{\"beds\": 125}",
+    "sound": "",
+    "limit_to_island": 7
+  },
+  {
+    "structure_id": 204,
+    "structure_type": "castle",
+    "entity": 296,
+    "upgrades_to": 205,
+    "extra": "{\"beds\": 175}",
+    "sound": "",
+    "limit_to_island": 7
+  },
+  {
+    "structure_id": 205,
+    "structure_type": "castle",
+    "entity": 297,
+    "upgrades_to": 242,
+    "extra": "{\"beds\": 265}",
+    "sound": "",
+    "limit_to_island": 7
+  },
+  {
+    "structure_id": 206,
+    "structure_type": "torch",
+    "entity": 300,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 207,
+    "structure_type": "mine",
+    "entity": 301,
+    "upgrades_to": 0,
+    "extra": "{\"time\": 720, \"diamonds\": 2}",
+    "sound": "",
+    "limit_to_island": 1
+  },
+  {
+    "structure_id": 208,
+    "structure_type": "obstacle",
+    "entity": 317,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 209,
+    "structure_type": "obstacle",
+    "entity": 318,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 210,
+    "structure_type": "obstacle",
+    "entity": 319,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 211,
+    "structure_type": "obstacle",
+    "entity": 320,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 212,
+    "structure_type": "obstacle",
+    "entity": 321,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 213,
+    "structure_type": "obstacle",
+    "entity": 322,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 214,
+    "structure_type": "castle",
+    "entity": 323,
+    "upgrades_to": 215,
+    "extra": "{\"beds\": 4}",
+    "sound": "",
+    "limit_to_island": 8
+  },
+  {
+    "structure_id": 215,
+    "structure_type": "castle",
+    "entity": 324,
+    "upgrades_to": 216,
+    "extra": "{\"beds\": 10}",
+    "sound": "",
+    "limit_to_island": 8
+  },
+  {
+    "structure_id": 216,
+    "structure_type": "castle",
+    "entity": 325,
+    "upgrades_to": 217,
+    "extra": "{\"beds\": 18}",
+    "sound": "",
+    "limit_to_island": 8
+  },
+  {
+    "structure_id": 217,
+    "structure_type": "castle",
+    "entity": 326,
+    "upgrades_to": 218,
+    "extra": "{\"beds\": 28}",
+    "sound": "",
+    "limit_to_island": 8
+  },
+  {
+    "structure_id": 218,
+    "structure_type": "castle",
+    "entity": 327,
+    "upgrades_to": 219,
+    "extra": "{\"beds\": 40}",
+    "sound": "",
+    "limit_to_island": 8
+  },
+  {
+    "structure_id": 219,
+    "structure_type": "castle",
+    "entity": 328,
+    "upgrades_to": 243,
+    "extra": "{\"beds\": 60}",
+    "sound": "",
+    "limit_to_island": 8
+  },
+  {
+    "structure_id": 220,
+    "structure_type": "decoration",
+    "entity": 330,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 7
+  },
+  {
+    "structure_id": 221,
+    "structure_type": "decoration",
+    "entity": 331,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 7
+  },
+  {
+    "structure_id": 222,
+    "structure_type": "decoration",
+    "entity": 332,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 7
+  },
+  {
+    "structure_id": 223,
+    "structure_type": "decoration",
+    "entity": 333,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 7
+  },
+  {
+    "structure_id": 224,
+    "structure_type": "decoration",
+    "entity": 334,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 7
+  },
+  {
+    "structure_id": 225,
+    "structure_type": "decoration",
+    "entity": 335,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 7
+  },
+  {
+    "structure_id": 226,
+    "structure_type": "decoration",
+    "entity": 336,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 8
+  },
+  {
+    "structure_id": 227,
+    "structure_type": "decoration",
+    "entity": 337,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 8
+  },
+  {
+    "structure_id": 228,
+    "structure_type": "decoration",
+    "entity": 338,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 8
+  },
+  {
+    "structure_id": 229,
+    "structure_type": "decoration",
+    "entity": 339,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 8
+  },
+  {
+    "structure_id": 230,
+    "structure_type": "decoration",
+    "entity": 340,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 8
+  },
+  {
+    "structure_id": 231,
+    "structure_type": "decoration",
+    "entity": 341,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 8
+  },
+  {
+    "structure_id": 232,
+    "structure_type": "decoration",
+    "entity": 347,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 233,
+    "structure_type": "decoration",
+    "entity": 348,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 234,
+    "structure_type": "decoration",
+    "entity": 349,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 235,
+    "structure_type": "decoration",
+    "entity": 350,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 236,
+    "structure_type": "decoration",
+    "entity": 351,
+    "upgrades_to": 0,
+    "extra": "{}",
+    "sound": "",
+    "limit_to_island": 0
+  },
+  {
+    "structure_id": 237,
+    "structure_type": "castle",
+    "entity": 354,
+    "upgrades_to": 0,
+    "extra": "{\"beds\": 90}",
+    "sound": "",
+    "limit_to_island": 1
+  },
+  {
+    "structure_id": 238,
+    "structure_type": "castle",
+    "entity": 355,
+    "upgrades_to": 0,
+    "extra": "{\"beds\": 90}",
+    "sound": "",
+    "limit_to_island": 2
+  },
+  {
+    "structure_id": 239,
+    "structure_type": "castle",
+    "entity": 356,
+    "upgrades_to": 0,
+    "extra": "{\"beds\": 90}",
+    "sound": "",
+    "limit_to_island": 3
+  },
+  {
+    "structure_id": 240,
+    "structure_type": "castle",
+    "entity": 357,
+    "upgrades_to": 0,
+    "extra": "{\"beds\": 90}",
+    "sound": "",
+    "limit_to_island": 4
+  },
+  {
+    "structure_id": 241,
+    "structure_type": "castle",
+    "entity": 358,
+    "upgrades_to": 0,
+    "extra": "{\"beds\": 90}",
+    "sound": "",
+    "limit_to_island": 5
+  },
+  {
+    "structure_id": 242,
+    "structure_type": "castle",
+    "entity": 359,
+    "upgrades_to": 0,
+    "extra": "{\"beds\": 400}",
+    "sound": "",
+    "limit_to_island": 7
+  },
+  {
+    "structure_id": 243,
+    "structure_type": "castle",
+    "entity": 360,
+    "upgrades_to": 0,
+    "extra": "{\"beds\": 90}",
+    "sound": "",
+    "limit_to_island": 8
+  }
+]
