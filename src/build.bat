@@ -18,7 +18,7 @@ copy "..\README.md" "..\builds\linux\README.md"
 copy "..\LICENSE" "..\builds\linux\LICENSE"
 copy "..\constants.json" "..\builds\linux\constants.json"
 
-xcopy "..\db" "..\builds\linux\db" /E /I
+xcopy "..\db" "..\builds\windows\db" /E /I
 xcopy "..\dlc" "..\builds\windows\dlc" /E /I
 copy "..\README.md" "..\builds\windows\README.md"
 copy "..\LICENSE" "..\builds\windows\LICENSE"
